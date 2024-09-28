@@ -1,0 +1,5497 @@
+{
+  "ENDURANCE": {
+    "id": "ENDURANCE",
+    "name": "Ausdauer",
+    "disciplines": {
+      "800M_RUN": {
+        "id": "800M_RUN",
+        "name": "800 m Lauf",
+        "group": "ENDURANCE",
+        "unit": "sec",
+        "unit_original": "Min",
+        "values": {
+          "w": {
+            "6-7": {
+              "Bronze": 340,
+              "Silver": 300,
+              "Gold": 255
+            },
+            "8-9": {
+              "Bronze": 335,
+              "Silver": 290,
+              "Gold": 250
+            },
+            "10-11": {
+              "Bronze": 320,
+              "Silver": 280,
+              "Gold": 240
+            },
+            "12-13": {
+              "Bronze": 310,
+              "Silver": 265,
+              "Gold": 225
+            },
+            "14-15": {
+              "Bronze": 300,
+              "Silver": 260,
+              "Gold": 215
+            },
+            "16-17": {
+              "Bronze": 290,
+              "Silver": 245,
+              "Gold": 205
+            }
+          },
+          "m": {
+            "6-7": {
+              "Bronze": 340,
+              "Silver": 300,
+              "Gold": 255
+            },
+            "8-9": {
+              "Bronze": 325,
+              "Silver": 280,
+              "Gold": 235
+            },
+            "10-11": {
+              "Bronze": 305,
+              "Silver": 260,
+              "Gold": 215
+            },
+            "12-13": {
+              "Bronze": 285,
+              "Silver": 240,
+              "Gold": 195
+            },
+            "14-15": {
+              "Bronze": 260,
+              "Silver": 220,
+              "Gold": 180
+            },
+            "16-17": {
+              "Bronze": 245,
+              "Silver": 205,
+              "Gold": 165
+            }
+          }
+        }
+      },
+      "3000M_RUN": {
+        "id": "3000M_RUN",
+        "name": "3.000 m Lauf",
+        "group": "ENDURANCE",
+        "unit": "sec",
+        "unit_original": "Min",
+        "values": {
+          "w": {
+            "90": {
+              "Bronze": 1950,
+              "Silver": 1770,
+              "Gold": 1590
+            },
+            "18-19": {
+              "Bronze": 1250,
+              "Silver": 1130,
+              "Gold": 1010
+            },
+            "20-24": {
+              "Bronze": 1220,
+              "Silver": 1100,
+              "Gold": 980
+            },
+            "25-29": {
+              "Bronze": 1240,
+              "Silver": 1120,
+              "Gold": 1000
+            },
+            "30-34": {
+              "Bronze": 1290,
+              "Silver": 1170,
+              "Gold": 1050
+            },
+            "35-39": {
+              "Bronze": 1320,
+              "Silver": 1200,
+              "Gold": 1080
+            },
+            "40-44": {
+              "Bronze": 1370,
+              "Silver": 1240,
+              "Gold": 1110
+            },
+            "45-49": {
+              "Bronze": 1430,
+              "Silver": 1290,
+              "Gold": 1130
+            },
+            "50-54": {
+              "Bronze": 1490,
+              "Silver": 1330,
+              "Gold": 1150
+            },
+            "55-59": {
+              "Bronze": 1550,
+              "Silver": 1370,
+              "Gold": 1190
+            },
+            "60-64": {
+              "Bronze": 1590,
+              "Silver": 1410,
+              "Gold": 1230
+            },
+            "65-69": {
+              "Bronze": 1630,
+              "Silver": 1450,
+              "Gold": 1270
+            },
+            "70-74": {
+              "Bronze": 1660,
+              "Silver": 1480,
+              "Gold": 1300
+            },
+            "75-79": {
+              "Bronze": 1710,
+              "Silver": 1530,
+              "Gold": 1350
+            },
+            "80-84": {
+              "Bronze": 1780,
+              "Silver": 1600,
+              "Gold": 1420
+            },
+            "85-89": {
+              "Bronze": 1860,
+              "Silver": 1680,
+              "Gold": 1500
+            }
+          },
+          "m": {
+            "90": {
+              "Bronze": 1790,
+              "Silver": 1610,
+              "Gold": 1430
+            },
+            "18-19": {
+              "Bronze": 1070,
+              "Silver": 950,
+              "Gold": 830
+            },
+            "20-24": {
+              "Bronze": 1040,
+              "Silver": 920,
+              "Gold": 800
+            },
+            "25-29": {
+              "Bronze": 1060,
+              "Silver": 940,
+              "Gold": 820
+            },
+            "30-34": {
+              "Bronze": 1110,
+              "Silver": 990,
+              "Gold": 870
+            },
+            "35-39": {
+              "Bronze": 1190,
+              "Silver": 1040,
+              "Gold": 900
+            },
+            "40-44": {
+              "Bronze": 1260,
+              "Silver": 1110,
+              "Gold": 950
+            },
+            "45-49": {
+              "Bronze": 1330,
+              "Silver": 1170,
+              "Gold": 990
+            },
+            "50-54": {
+              "Bronze": 1400,
+              "Silver": 1220,
+              "Gold": 1040
+            },
+            "55-59": {
+              "Bronze": 1430,
+              "Silver": 1250,
+              "Gold": 1070
+            },
+            "60-64": {
+              "Bronze": 1470,
+              "Silver": 1290,
+              "Gold": 1110
+            },
+            "65-69": {
+              "Bronze": 1500,
+              "Silver": 1320,
+              "Gold": 1140
+            },
+            "70-74": {
+              "Bronze": 1520,
+              "Silver": 1340,
+              "Gold": 1160
+            },
+            "75-79": {
+              "Bronze": 1560,
+              "Silver": 1380,
+              "Gold": 1200
+            },
+            "80-84": {
+              "Bronze": 1590,
+              "Silver": 1410,
+              "Gold": 1230
+            },
+            "85-89": {
+              "Bronze": 1650,
+              "Silver": 1470,
+              "Gold": 1290
+            }
+          }
+        }
+      },
+      "10KM_RUN": {
+        "id": "10KM_RUN",
+        "name": "10 km Lauf",
+        "group": "ENDURANCE",
+        "unit": "sec",
+        "unit_original": "Min",
+        "values": {
+          "w": {
+            "90": {
+              "Bronze": 8190,
+              "Silver": 7470,
+              "Gold": 6750
+            },
+            "18-19": {
+              "Bronze": 5080,
+              "Silver": 4720,
+              "Gold": 4360
+            },
+            "20-24": {
+              "Bronze": 5010,
+              "Silver": 4610,
+              "Gold": 4290
+            },
+            "25-29": {
+              "Bronze": 5010,
+              "Silver": 4610,
+              "Gold": 4260
+            },
+            "30-34": {
+              "Bronze": 5050,
+              "Silver": 4680,
+              "Gold": 4280
+            },
+            "35-39": {
+              "Bronze": 5260,
+              "Silver": 4770,
+              "Gold": 4290
+            },
+            "40-44": {
+              "Bronze": 5480,
+              "Silver": 4880,
+              "Gold": 4300
+            },
+            "45-49": {
+              "Bronze": 5720,
+              "Silver": 4990,
+              "Gold": 4370
+            },
+            "50-54": {
+              "Bronze": 5860,
+              "Silver": 5130,
+              "Gold": 4440
+            },
+            "55-59": {
+              "Bronze": 6010,
+              "Silver": 5290,
+              "Gold": 4570
+            },
+            "60-64": {
+              "Bronze": 6170,
+              "Silver": 5450,
+              "Gold": 4730
+            },
+            "65-69": {
+              "Bronze": 6340,
+              "Silver": 5620,
+              "Gold": 4900
+            },
+            "70-74": {
+              "Bronze": 6570,
+              "Silver": 5850,
+              "Gold": 5130
+            },
+            "75-79": {
+              "Bronze": 6920,
+              "Silver": 6200,
+              "Gold": 5480
+            },
+            "80-84": {
+              "Bronze": 7340,
+              "Silver": 6620,
+              "Gold": 5900
+            },
+            "85-89": {
+              "Bronze": 7750,
+              "Silver": 7030,
+              "Gold": 6310
+            }
+          },
+          "m": {
+            "90": {
+              "Bronze": 7660,
+              "Silver": 6940,
+              "Gold": 6220
+            },
+            "18-19": {
+              "Bronze": 3800,
+              "Silver": 3440,
+              "Gold": 3080
+            },
+            "20-24": {
+              "Bronze": 3750,
+              "Silver": 3390,
+              "Gold": 3000
+            },
+            "25-29": {
+              "Bronze": 3960,
+              "Silver": 3560,
+              "Gold": 3120
+            },
+            "30-34": {
+              "Bronze": 4180,
+              "Silver": 3670,
+              "Gold": 3290
+            },
+            "35-39": {
+              "Bronze": 4450,
+              "Silver": 3930,
+              "Gold": 3410
+            },
+            "40-44": {
+              "Bronze": 4730,
+              "Silver": 4170,
+              "Gold": 3610
+            },
+            "45-49": {
+              "Bronze": 5020,
+              "Silver": 4390,
+              "Gold": 3810
+            },
+            "50-54": {
+              "Bronze": 5300,
+              "Silver": 4600,
+              "Gold": 3930
+            },
+            "55-59": {
+              "Bronze": 5490,
+              "Silver": 4780,
+              "Gold": 4060
+            },
+            "60-64": {
+              "Bronze": 5680,
+              "Silver": 4960,
+              "Gold": 4240
+            },
+            "65-69": {
+              "Bronze": 5880,
+              "Silver": 5160,
+              "Gold": 4440
+            },
+            "70-74": {
+              "Bronze": 6130,
+              "Silver": 5410,
+              "Gold": 4690
+            },
+            "75-79": {
+              "Bronze": 6440,
+              "Silver": 5720,
+              "Gold": 5000
+            },
+            "80-84": {
+              "Bronze": 6790,
+              "Silver": 6070,
+              "Gold": 5350
+            },
+            "85-89": {
+              "Bronze": 7210,
+              "Silver": 6490,
+              "Gold": 5770
+            }
+          }
+        }
+      },
+      "TRAIL_RUN": {
+        "id": "TRAIL_RUN",
+        "name": "Dauer-/Geländelauf",
+        "group": "ENDURANCE",
+        "unit": "sec",
+        "unit_original": "Min",
+        "values": {
+          "w": {
+            "6-7": {
+              "Bronze": 480,
+              "Silver": 720,
+              "Gold": 1020
+            },
+            "8-9": {
+              "Bronze": 600,
+              "Silver": 900,
+              "Gold": 1200
+            },
+            "10-11": {
+              "Bronze": 900,
+              "Silver": 1200,
+              "Gold": 1800
+            },
+            "12-13": {
+              "Bronze": 1200,
+              "Silver": 1800,
+              "Gold": 2400
+            },
+            "14-15": {
+              "Bronze": 1800,
+              "Silver": 2400,
+              "Gold": 3000
+            },
+            "16-17": {
+              "Bronze": 2700,
+              "Silver": 3600,
+              "Gold": 4500
+            }
+          },
+          "m": {
+            "6-7": {
+              "Bronze": 600,
+              "Silver": 900,
+              "Gold": 1200
+            },
+            "8-9": {
+              "Bronze": 720,
+              "Silver": 1020,
+              "Gold": 1380
+            },
+            "10-11": {
+              "Bronze": 1020,
+              "Silver": 1500,
+              "Gold": 2100
+            },
+            "12-13": {
+              "Bronze": 1500,
+              "Silver": 2100,
+              "Gold": 2700
+            },
+            "14-15": {
+              "Bronze": 2100,
+              "Silver": 2700,
+              "Gold": 3600
+            },
+            "16-17": {
+              "Bronze": 3300,
+              "Silver": 4200,
+              "Gold": 5400
+            }
+          }
+        }
+      },
+      "NORDIC_WALKING": {
+        "id": "NORDIC_WALKING",
+        "name": "7,5 km Walking / Nordic Walking",
+        "group": "ENDURANCE",
+        "unit": "sec",
+        "unit_original": "Min",
+        "values": {
+          "w": {
+            "90": {
+              "Bronze": 6621,
+              "Silver": 5760,
+              "Gold": 5220
+            },
+            "18-19": {
+              "Bronze": 4170,
+              "Silver": 3960,
+              "Gold": 3720
+            },
+            "20-24": {
+              "Bronze": 3990,
+              "Silver": 3780,
+              "Gold": 3600
+            },
+            "25-29": {
+              "Bronze": 4020,
+              "Silver": 3810,
+              "Gold": 3600
+            },
+            "30-34": {
+              "Bronze": 4050,
+              "Silver": 3840,
+              "Gold": 3660
+            },
+            "35-39": {
+              "Bronze": 4200,
+              "Silver": 3900,
+              "Gold": 3690
+            },
+            "40-44": {
+              "Bronze": 4380,
+              "Silver": 4020,
+              "Gold": 3720
+            },
+            "45-49": {
+              "Bronze": 4530,
+              "Silver": 4140,
+              "Gold": 3780
+            },
+            "50-54": {
+              "Bronze": 4680,
+              "Silver": 4260,
+              "Gold": 3840
+            },
+            "55-59": {
+              "Bronze": 4800,
+              "Silver": 4380,
+              "Gold": 3960
+            },
+            "60-64": {
+              "Bronze": 4950,
+              "Silver": 4470,
+              "Gold": 4050
+            },
+            "65-69": {
+              "Bronze": 5055,
+              "Silver": 4590,
+              "Gold": 4200
+            },
+            "70-74": {
+              "Bronze": 5295,
+              "Silver": 4740,
+              "Gold": 4320
+            },
+            "75-79": {
+              "Bronze": 5550,
+              "Silver": 4890,
+              "Gold": 4470
+            },
+            "80-84": {
+              "Bronze": 5910,
+              "Silver": 5115,
+              "Gold": 4650
+            },
+            "85-89": {
+              "Bronze": 6240,
+              "Silver": 5420,
+              "Gold": 4920
+            }
+          },
+          "m": {
+            "90": {
+              "Bronze": 6165,
+              "Silver": 5360,
+              "Gold": 4800
+            },
+            "18-19": {
+              "Bronze": 3510,
+              "Silver": 3270,
+              "Gold": 3030
+            },
+            "20-24": {
+              "Bronze": 3420,
+              "Silver": 3180,
+              "Gold": 2940
+            },
+            "25-29": {
+              "Bronze": 3510,
+              "Silver": 3270,
+              "Gold": 3030
+            },
+            "30-34": {
+              "Bronze": 3750,
+              "Silver": 3420,
+              "Gold": 3060
+            },
+            "35-39": {
+              "Bronze": 3900,
+              "Silver": 3510,
+              "Gold": 3210
+            },
+            "40-44": {
+              "Bronze": 3960,
+              "Silver": 3630,
+              "Gold": 3240
+            },
+            "45-49": {
+              "Bronze": 4110,
+              "Silver": 3750,
+              "Gold": 3300
+            },
+            "50-54": {
+              "Bronze": 4260,
+              "Silver": 3840,
+              "Gold": 3450
+            },
+            "55-59": {
+              "Bronze": 4380,
+              "Silver": 3900,
+              "Gold": 3540
+            },
+            "60-64": {
+              "Bronze": 4545,
+              "Silver": 4050,
+              "Gold": 3630
+            },
+            "65-69": {
+              "Bronze": 4690,
+              "Silver": 4170,
+              "Gold": 3720
+            },
+            "70-74": {
+              "Bronze": 4890,
+              "Silver": 4320,
+              "Gold": 3900
+            },
+            "75-79": {
+              "Bronze": 5170,
+              "Silver": 4545,
+              "Gold": 4050
+            },
+            "80-84": {
+              "Bronze": 5490,
+              "Silver": 4785,
+              "Gold": 4320
+            },
+            "85-89": {
+              "Bronze": 5760,
+              "Silver": 5055,
+              "Gold": 4530
+            }
+          }
+        }
+      },
+      "200M_SWIMMING": {
+        "id": "200M_SWIMMING",
+        "name": "Schwimmen (200 m)",
+        "group": "ENDURANCE",
+        "unit": "sec",
+        "unit_original": "Min",
+        "values": {
+          "w": {
+            "90": {
+              "Bronze": 645,
+              "Silver": 535,
+              "Gold": 440
+            },
+            "6-7": {
+              "Bronze": 540,
+              "Silver": 460,
+              "Gold": 380
+            },
+            "8-9": {
+              "Bronze": 480,
+              "Silver": 420,
+              "Gold": 355
+            },
+            "10-11": {
+              "Bronze": 440,
+              "Silver": 385,
+              "Gold": 330
+            },
+            "75-79": {
+              "Bronze": 615,
+              "Silver": 500,
+              "Gold": 390
+            },
+            "80-84": {
+              "Bronze": 625,
+              "Silver": 510,
+              "Gold": 405
+            },
+            "85-89": {
+              "Bronze": 635,
+              "Silver": 525,
+              "Gold": 425
+            }
+          },
+          "m": {
+            "90": {
+              "Bronze": 585,
+              "Silver": 490,
+              "Gold": 405
+            },
+            "6-7": {
+              "Bronze": 540,
+              "Silver": 440,
+              "Gold": 370
+            },
+            "8-9": {
+              "Bronze": 480,
+              "Silver": 405,
+              "Gold": 340
+            },
+            "10-11": {
+              "Bronze": 420,
+              "Silver": 380,
+              "Gold": 310
+            },
+            "75-79": {
+              "Bronze": 565,
+              "Silver": 460,
+              "Gold": 365
+            },
+            "80-84": {
+              "Bronze": 570,
+              "Silver": 470,
+              "Gold": 370
+            },
+            "85-89": {
+              "Bronze": 570,
+              "Silver": 480,
+              "Gold": 385
+            }
+          }
+        }
+      },
+      "400M_SWIMMING": {
+        "id": "400M_SWIMMING",
+        "name": "Schwimmen (400 m)",
+        "group": "ENDURANCE",
+        "unit": "sec",
+        "unit_original": "Min",
+        "values": {
+          "w": {
+            "12-13": {
+              "Bronze": 890,
+              "Silver": 775,
+              "Gold": 660
+            },
+            "14-15": {
+              "Bronze": 785,
+              "Silver": 700,
+              "Gold": 600
+            },
+            "16-17": {
+              "Bronze": 710,
+              "Silver": 630,
+              "Gold": 545
+            },
+            "50-54": {
+              "Bronze": 1080,
+              "Silver": 900,
+              "Gold": 690
+            },
+            "55-59": {
+              "Bronze": 1115,
+              "Silver": 920,
+              "Gold": 715
+            },
+            "60-64": {
+              "Bronze": 1140,
+              "Silver": 935,
+              "Gold": 730
+            },
+            "65-69": {
+              "Bronze": 1165,
+              "Silver": 945,
+              "Gold": 735
+            },
+            "70-74": {
+              "Bronze": 1190,
+              "Silver": 965,
+              "Gold": 760
+            }
+          },
+          "m": {
+            "12-13": {
+              "Bronze": 810,
+              "Silver": 690,
+              "Gold": 585
+            },
+            "14-15": {
+              "Bronze": 720,
+              "Silver": 615,
+              "Gold": 530
+            },
+            "16-17": {
+              "Bronze": 660,
+              "Silver": 580,
+              "Gold": 500
+            },
+            "50-54": {
+              "Bronze": 1045,
+              "Silver": 860,
+              "Gold": 645
+            },
+            "55-59": {
+              "Bronze": 1070,
+              "Silver": 875,
+              "Gold": 680
+            },
+            "60-64": {
+              "Bronze": 1090,
+              "Silver": 885,
+              "Gold": 685
+            },
+            "65-69": {
+              "Bronze": 1105,
+              "Silver": 905,
+              "Gold": 690
+            },
+            "70-74": {
+              "Bronze": 1105,
+              "Silver": 915,
+              "Gold": 695
+            }
+          }
+        }
+      },
+      "800M_SWIMMING": {
+        "id": "800M_SWIMMING",
+        "name": "Schwimmen (800 m)",
+        "group": "ENDURANCE",
+        "unit": "sec",
+        "unit_original": "Min",
+        "values": {
+          "w": {
+            "18-19": {
+              "Bronze": 1440,
+              "Silver": 1270,
+              "Gold": 1105
+            },
+            "20-24": {
+              "Bronze": 1415,
+              "Silver": 1250,
+              "Gold": 1080
+            },
+            "25-29": {
+              "Bronze": 1530,
+              "Silver": 1265,
+              "Gold": 1120
+            },
+            "30-34": {
+              "Bronze": 1730,
+              "Silver": 1420,
+              "Gold": 1170
+            },
+            "35-39": {
+              "Bronze": 1920,
+              "Silver": 1535,
+              "Gold": 1220
+            },
+            "40-44": {
+              "Bronze": 2040,
+              "Silver": 1660,
+              "Gold": 1280
+            },
+            "45-49": {
+              "Bronze": 2120,
+              "Silver": 1740,
+              "Gold": 1290
+            }
+          },
+          "m": {
+            "18-19": {
+              "Bronze": 1355,
+              "Silver": 1190,
+              "Gold": 1020
+            },
+            "20-24": {
+              "Bronze": 1330,
+              "Silver": 1170,
+              "Gold": 985
+            },
+            "25-29": {
+              "Bronze": 1390,
+              "Silver": 1200,
+              "Gold": 1020
+            },
+            "30-34": {
+              "Bronze": 1545,
+              "Silver": 1290,
+              "Gold": 1080
+            },
+            "35-39": {
+              "Bronze": 1730,
+              "Silver": 1440,
+              "Gold": 1155
+            },
+            "40-44": {
+              "Bronze": 1945,
+              "Silver": 1585,
+              "Gold": 1225
+            },
+            "45-49": {
+              "Bronze": 2070,
+              "Silver": 1670,
+              "Gold": 1240
+            }
+          }
+        }
+      },
+      "5KM_CYCLING": {
+        "id": "5KM_CYCLING",
+        "name": "Radfahren (5 km)",
+        "group": "ENDURANCE",
+        "unit": "sec",
+        "unit_original": "Min",
+        "values": {
+          "w": {
+            "8-9": {
+              "Bronze": 1620,
+              "Silver": 1440,
+              "Gold": 1260
+            }
+          },
+          "m": {
+            "8-9": {
+              "Bronze": 1590,
+              "Silver": 1410,
+              "Gold": 1230
+            }
+          }
+        }
+      },
+      "10KM_CYCLING": {
+        "id": "10KM_CYCLING",
+        "name": "Radfahren (10 km)",
+        "group": "ENDURANCE",
+        "unit": "sec",
+        "unit_original": "Min",
+        "values": {
+          "w": {
+            "10-11": {
+              "Bronze": 3030,
+              "Silver": 2580,
+              "Gold": 2130
+            },
+            "12-13": {
+              "Bronze": 2700,
+              "Silver": 2370,
+              "Gold": 2010
+            },
+            "14-15": {
+              "Bronze": 2280,
+              "Silver": 1950,
+              "Gold": 1710
+            },
+            "16-17": {
+              "Bronze": 1950,
+              "Silver": 1710,
+              "Gold": 1500
+            }
+          },
+          "m": {
+            "10-11": {
+              "Bronze": 2910,
+              "Silver": 2460,
+              "Gold": 2010
+            },
+            "12-13": {
+              "Bronze": 2580,
+              "Silver": 2220,
+              "Gold": 1890
+            },
+            "14-15": {
+              "Bronze": 1920,
+              "Silver": 1680,
+              "Gold": 1440
+            },
+            "16-17": {
+              "Bronze": 1620,
+              "Silver": 1410,
+              "Gold": 1230
+            }
+          }
+        }
+      },
+      "20KM_CYCLING": {
+        "id": "20KM_CYCLING",
+        "name": "20 km Radfahren",
+        "group": "ENDURANCE",
+        "unit": "sec",
+        "unit_original": "Min",
+        "values": {
+          "w": {
+            "90": {
+              "Bronze": 5580,
+              "Silver": 4980,
+              "Gold": 4350
+            },
+            "18-19": {
+              "Bronze": 3450,
+              "Silver": 3120,
+              "Gold": 2790
+            },
+            "20-24": {
+              "Bronze": 3420,
+              "Silver": 3090,
+              "Gold": 2730
+            },
+            "25-29": {
+              "Bronze": 3360,
+              "Silver": 3030,
+              "Gold": 2700
+            },
+            "30-34": {
+              "Bronze": 3420,
+              "Silver": 3090,
+              "Gold": 2730
+            },
+            "35-39": {
+              "Bronze": 3600,
+              "Silver": 3180,
+              "Gold": 2820
+            },
+            "40-44": {
+              "Bronze": 3840,
+              "Silver": 3330,
+              "Gold": 2970
+            },
+            "45-49": {
+              "Bronze": 4020,
+              "Silver": 3510,
+              "Gold": 3090
+            },
+            "50-54": {
+              "Bronze": 4140,
+              "Silver": 3660,
+              "Gold": 3210
+            },
+            "55-59": {
+              "Bronze": 4290,
+              "Silver": 3780,
+              "Gold": 3330
+            },
+            "60-64": {
+              "Bronze": 4440,
+              "Silver": 3900,
+              "Gold": 3420
+            },
+            "65-69": {
+              "Bronze": 4530,
+              "Silver": 3990,
+              "Gold": 3510
+            },
+            "70-74": {
+              "Bronze": 4680,
+              "Silver": 4110,
+              "Gold": 3630
+            },
+            "75-79": {
+              "Bronze": 4890,
+              "Silver": 4230,
+              "Gold": 3780
+            },
+            "80-84": {
+              "Bronze": 5070,
+              "Silver": 4500,
+              "Gold": 3930
+            },
+            "85-89": {
+              "Bronze": 5370,
+              "Silver": 4800,
+              "Gold": 4140
+            }
+          },
+          "m": {
+            "90": {
+              "Bronze": 4740,
+              "Silver": 4080,
+              "Gold": 3480
+            },
+            "18-19": {
+              "Bronze": 2820,
+              "Silver": 2550,
+              "Gold": 2310
+            },
+            "20-24": {
+              "Bronze": 2790,
+              "Silver": 2520,
+              "Gold": 2250
+            },
+            "25-29": {
+              "Bronze": 3000,
+              "Silver": 2670,
+              "Gold": 2340
+            },
+            "30-34": {
+              "Bronze": 3210,
+              "Silver": 2820,
+              "Gold": 2430
+            },
+            "35-39": {
+              "Bronze": 3480,
+              "Silver": 3000,
+              "Gold": 2490
+            },
+            "40-44": {
+              "Bronze": 3780,
+              "Silver": 3120,
+              "Gold": 2610
+            },
+            "45-49": {
+              "Bronze": 3960,
+              "Silver": 3300,
+              "Gold": 2700
+            },
+            "50-54": {
+              "Bronze": 4110,
+              "Silver": 3420,
+              "Gold": 2790
+            },
+            "55-59": {
+              "Bronze": 4230,
+              "Silver": 3510,
+              "Gold": 2850
+            },
+            "60-64": {
+              "Bronze": 4290,
+              "Silver": 3600,
+              "Gold": 2880
+            },
+            "65-69": {
+              "Bronze": 4350,
+              "Silver": 3630,
+              "Gold": 2910
+            },
+            "70-74": {
+              "Bronze": 4410,
+              "Silver": 3690,
+              "Gold": 2970
+            },
+            "75-79": {
+              "Bronze": 4470,
+              "Silver": 3780,
+              "Gold": 3090
+            },
+            "80-84": {
+              "Bronze": 4560,
+              "Silver": 3870,
+              "Gold": 3180
+            },
+            "85-89": {
+              "Bronze": 4650,
+              "Silver": 3990,
+              "Gold": 3330
+            }
+          }
+        }
+      }
+    }
+  },
+  "STRENGTH": {
+    "id": "STRENGTH",
+    "name": "Kraft",
+    "disciplines": {
+      "80G_THROWING": {
+        "id": "80G_THROWING",
+        "name": "Werfen – Schlagball (80 g)",
+        "group": "STRENGTH",
+        "unit": "m",
+        "unit_original": "m",
+        "values": {
+          "w": {
+            "6-7": {
+              "Bronze": 6,
+              "Silver": 9,
+              "Gold": 12
+            },
+            "8-9": {
+              "Bronze": 9,
+              "Silver": 12,
+              "Gold": 15
+            },
+            "10-11": {
+              "Bronze": 11,
+              "Silver": 15,
+              "Gold": 18
+            },
+            "12-13": {
+              "Bronze": 15,
+              "Silver": 18,
+              "Gold": 22
+            }
+          },
+          "m": {
+            "6-7": {
+              "Bronze": 12,
+              "Silver": 15,
+              "Gold": 17
+            },
+            "8-9": {
+              "Bronze": 17,
+              "Silver": 20,
+              "Gold": 23
+            },
+            "10-11": {
+              "Bronze": 21,
+              "Silver": 25,
+              "Gold": 28
+            }
+          }
+        }
+      },
+      "200G_THROWING": {
+        "id": "200G_THROWING",
+        "name": "Werfen – Wurfball (200 g)",
+        "group": "STRENGTH",
+        "unit": "m",
+        "unit_original": "m",
+        "values": {
+          "w": {
+            "14-15": {
+              "Bronze": 20,
+              "Silver": 24,
+              "Gold": 27
+            },
+            "16-17": {
+              "Bronze": 24,
+              "Silver": 27,
+              "Gold": 31
+            }
+          },
+          "m": {
+            "12-13": {
+              "Bronze": 26,
+              "Silver": 30,
+              "Gold": 33
+            },
+            "14-15": {
+              "Bronze": 30,
+              "Silver": 34,
+              "Gold": 37
+            },
+            "16-17": {
+              "Bronze": 34,
+              "Silver": 38,
+              "Gold": 42
+            }
+          }
+        }
+      },
+      "1KG_MEDICINE_BALL": {
+        "id": "1KG_MEDICINE_BALL",
+        "name": "Medizinball (1 kg)",
+        "group": "STRENGTH",
+        "unit": "m",
+        "unit_original": "m",
+        "values": {
+          "w": {
+            "6-7": {
+              "Bronze": 2.5,
+              "Silver": 3.5,
+              "Gold": 4.5
+            },
+            "8-9": {
+              "Bronze": 3,
+              "Silver": 4,
+              "Gold": 5
+            },
+            "10-11": {
+              "Bronze": 5,
+              "Silver": 6,
+              "Gold": 7
+            }
+          },
+          "m": {
+            "6-7": {
+              "Bronze": 2.5,
+              "Silver": 3.5,
+              "Gold": 4.5
+            },
+            "8-9": {
+              "Bronze": 3,
+              "Silver": 4,
+              "Gold": 5
+            },
+            "10-11": {
+              "Bronze": 5.5,
+              "Silver": 6.5,
+              "Gold": 7.5
+            }
+          }
+        }
+      },
+      "2KG_MEDICINE_BALL": {
+        "id": "2KG_MEDICINE_BALL",
+        "name": "Medizinball (2 kg)",
+        "group": "STRENGTH",
+        "unit": "m",
+        "unit_original": "m",
+        "values": {
+          "w": {
+            "90": {
+              "Bronze": 3,
+              "Silver": 4,
+              "Gold": 5
+            },
+            "18-19": {
+              "Bronze": 8,
+              "Silver": 9,
+              "Gold": 10
+            },
+            "20-24": {
+              "Bronze": 8,
+              "Silver": 9,
+              "Gold": 10
+            },
+            "25-29": {
+              "Bronze": 8,
+              "Silver": 9,
+              "Gold": 10
+            },
+            "30-34": {
+              "Bronze": 7.5,
+              "Silver": 8.5,
+              "Gold": 9.5
+            },
+            "35-39": {
+              "Bronze": 7,
+              "Silver": 8.5,
+              "Gold": 9.5
+            },
+            "40-44": {
+              "Bronze": 6.5,
+              "Silver": 8.5,
+              "Gold": 9.5
+            },
+            "45-49": {
+              "Bronze": 6,
+              "Silver": 8.5,
+              "Gold": 9.5
+            },
+            "50-54": {
+              "Bronze": 5.5,
+              "Silver": 7.5,
+              "Gold": 9
+            },
+            "55-59": {
+              "Bronze": 5.5,
+              "Silver": 7.5,
+              "Gold": 9
+            },
+            "60-64": {
+              "Bronze": 5,
+              "Silver": 7,
+              "Gold": 8.5
+            },
+            "65-69": {
+              "Bronze": 5,
+              "Silver": 7,
+              "Gold": 8.5
+            },
+            "70-74": {
+              "Bronze": 4.5,
+              "Silver": 6.5,
+              "Gold": 7.5
+            },
+            "75-79": {
+              "Bronze": 4.5,
+              "Silver": 6.5,
+              "Gold": 7.5
+            },
+            "80-84": {
+              "Bronze": 4,
+              "Silver": 5.5,
+              "Gold": 6.5
+            },
+            "85-89": {
+              "Bronze": 3.5,
+              "Silver": 4.5,
+              "Gold": 5.5
+            }
+          },
+          "m": {
+            "90": {
+              "Bronze": 4.5,
+              "Silver": 6.5,
+              "Gold": 8
+            },
+            "18-19": {
+              "Bronze": 11,
+              "Silver": 13,
+              "Gold": 14
+            },
+            "20-24": {
+              "Bronze": 11,
+              "Silver": 13.5,
+              "Gold": 14.5
+            },
+            "25-29": {
+              "Bronze": 10.5,
+              "Silver": 13,
+              "Gold": 14.5
+            },
+            "30-34": {
+              "Bronze": 10,
+              "Silver": 13,
+              "Gold": 14
+            },
+            "35-39": {
+              "Bronze": 9.5,
+              "Silver": 12.5,
+              "Gold": 14
+            },
+            "40-44": {
+              "Bronze": 9,
+              "Silver": 12,
+              "Gold": 13.5
+            },
+            "45-49": {
+              "Bronze": 8,
+              "Silver": 11.5,
+              "Gold": 13.5
+            },
+            "50-54": {
+              "Bronze": 7.5,
+              "Silver": 11,
+              "Gold": 13
+            },
+            "55-59": {
+              "Bronze": 7,
+              "Silver": 10.5,
+              "Gold": 12.5
+            },
+            "60-64": {
+              "Bronze": 6.5,
+              "Silver": 10,
+              "Gold": 12.5
+            },
+            "65-69": {
+              "Bronze": 6,
+              "Silver": 9.5,
+              "Gold": 11.5
+            },
+            "70-74": {
+              "Bronze": 6,
+              "Silver": 9,
+              "Gold": 10.5
+            },
+            "75-79": {
+              "Bronze": 6,
+              "Silver": 8.5,
+              "Gold": 10
+            },
+            "80-84": {
+              "Bronze": 5.5,
+              "Silver": 8,
+              "Gold": 9.5
+            },
+            "85-89": {
+              "Bronze": 5,
+              "Silver": 7.5,
+              "Gold": 9
+            }
+          }
+        }
+      },
+      "2KG_BALL_THRUSTING": {
+        "id": "2KG_BALL_THRUSTING",
+        "name": "Kugelstoßen (2 kg)",
+        "group": "STRENGTH",
+        "unit": "m",
+        "unit_original": "m",
+        "values": {
+          "w": {
+            "90": {
+              "Bronze": 3.25,
+              "Silver": 4.25,
+              "Gold": 5
+            },
+            "75-79": {
+              "Bronze": 4.25,
+              "Silver": 5.25,
+              "Gold": 6.25
+            },
+            "80-84": {
+              "Bronze": 4,
+              "Silver": 5,
+              "Gold": 5.75
+            },
+            "85-89": {
+              "Bronze": 3.75,
+              "Silver": 4.5,
+              "Gold": 5.5
+            }
+          },
+          "m": {}
+        }
+      },
+      "3KG_BALL_THRUSTING": {
+        "id": "3KG_BALL_THRUSTING",
+        "name": "Kugelstoßen (3 kg)",
+        "group": "STRENGTH",
+        "unit": "m",
+        "unit_original": "m",
+        "values": {
+          "w": {
+            "12-13": {
+              "Bronze": 4.75,
+              "Silver": 5.25,
+              "Gold": 5.75
+            },
+            "14-15": {
+              "Bronze": 5.5,
+              "Silver": 6,
+              "Gold": 6.5
+            },
+            "16-17": {
+              "Bronze": 5.75,
+              "Silver": 6.25,
+              "Gold": 6.75
+            },
+            "50-54": {
+              "Bronze": 5.25,
+              "Silver": 6,
+              "Gold": 7
+            },
+            "55-59": {
+              "Bronze": 5,
+              "Silver": 5.75,
+              "Gold": 6.5
+            },
+            "60-64": {
+              "Bronze": 4.75,
+              "Silver": 5.5,
+              "Gold": 6.25
+            },
+            "65-69": {
+              "Bronze": 4.5,
+              "Silver": 5.25,
+              "Gold": 6.15
+            },
+            "70-74": {
+              "Bronze": 4.25,
+              "Silver": 5,
+              "Gold": 6
+            }
+          },
+          "m": {
+            "90": {
+              "Bronze": 4.5,
+              "Silver": 5.25,
+              "Gold": 6.25
+            },
+            "12-13": {
+              "Bronze": 6.25,
+              "Silver": 6.75,
+              "Gold": 7.25
+            },
+            "80-84": {
+              "Bronze": 5.5,
+              "Silver": 6.25,
+              "Gold": 7.25
+            },
+            "85-89": {
+              "Bronze": 5,
+              "Silver": 6,
+              "Gold": 6.75
+            }
+          }
+        }
+      },
+      "4KG_BALL_THRUSTING": {
+        "id": "4KG_BALL_THRUSTING",
+        "name": "Kugelstoßen (4 kg)",
+        "group": "STRENGTH",
+        "unit": "m",
+        "unit_original": "m",
+        "values": {
+          "w": {
+            "18-19": {
+              "Bronze": 6.5,
+              "Silver": 7,
+              "Gold": 7.5
+            },
+            "20-24": {
+              "Bronze": 6.5,
+              "Silver": 7,
+              "Gold": 7.5
+            },
+            "25-29": {
+              "Bronze": 6.5,
+              "Silver": 7,
+              "Gold": 7.5
+            },
+            "30-34": {
+              "Bronze": 6.25,
+              "Silver": 6.75,
+              "Gold": 7.25
+            },
+            "35-39": {
+              "Bronze": 6,
+              "Silver": 6.5,
+              "Gold": 7
+            },
+            "40-44": {
+              "Bronze": 5.5,
+              "Silver": 6,
+              "Gold": 6.5
+            },
+            "45-49": {
+              "Bronze": 5.25,
+              "Silver": 5.75,
+              "Gold": 6.25
+            }
+          },
+          "m": {
+            "14-15": {
+              "Bronze": 7,
+              "Silver": 7.5,
+              "Gold": 8
+            },
+            "70-74": {
+              "Bronze": 6,
+              "Silver": 6.75,
+              "Gold": 7.75
+            },
+            "75-79": {
+              "Bronze": 5.75,
+              "Silver": 6.5,
+              "Gold": 7.5
+            }
+          }
+        }
+      },
+      "3KG_STONE_THRUSTING": {
+        "id": "3KG_STONE_THRUSTING",
+        "name": "Steinstoßen (3 kg)",
+        "group": "STRENGTH",
+        "unit": "m",
+        "unit_original": "m",
+        "values": {
+          "w": {
+            "90": {
+              "Bronze": 6.1,
+              "Silver": 7,
+              "Gold": 7.8
+            },
+            "50-54": {
+              "Bronze": 9.8,
+              "Silver": 10.6,
+              "Gold": 11.4
+            },
+            "55-59": {
+              "Bronze": 9.4,
+              "Silver": 10.3,
+              "Gold": 11.1
+            },
+            "60-64": {
+              "Bronze": 9.05,
+              "Silver": 9.9,
+              "Gold": 10.7
+            },
+            "65-69": {
+              "Bronze": 8.5,
+              "Silver": 9.4,
+              "Gold": 10.2
+            },
+            "70-74": {
+              "Bronze": 7.9,
+              "Silver": 8.8,
+              "Gold": 9.6
+            },
+            "75-79": {
+              "Bronze": 7.4,
+              "Silver": 8.3,
+              "Gold": 9.1
+            },
+            "80-84": {
+              "Bronze": 6.9,
+              "Silver": 7.8,
+              "Gold": 8.6
+            },
+            "85-89": {
+              "Bronze": 6.45,
+              "Silver": 7.35,
+              "Gold": 8.15
+            }
+          },
+          "m": {
+            "90": {
+              "Bronze": 8.4,
+              "Silver": 9.7,
+              "Gold": 11
+            },
+            "80-84": {
+              "Bronze": 9,
+              "Silver": 10.3,
+              "Gold": 11.6
+            },
+            "85-89": {
+              "Bronze": 8.8,
+              "Silver": 10.1,
+              "Gold": 11.4
+            }
+          }
+        }
+      },
+      "5KG_STONE_THRUSTING": {
+        "id": "5KG_STONE_THRUSTING",
+        "name": "Steinstoßen (5 kg)",
+        "group": "STRENGTH",
+        "unit": "m",
+        "unit_original": "m",
+        "values": {
+          "w": {
+            "18-19": {
+              "Bronze": 10.65,
+              "Silver": 11.25,
+              "Gold": 11.85
+            },
+            "20-24": {
+              "Bronze": 10.8,
+              "Silver": 11.4,
+              "Gold": 12
+            },
+            "25-29": {
+              "Bronze": 10.1,
+              "Silver": 10.7,
+              "Gold": 11.35
+            },
+            "30-34": {
+              "Bronze": 9.5,
+              "Silver": 10.15,
+              "Gold": 10.7
+            },
+            "35-39": {
+              "Bronze": 9,
+              "Silver": 9.5,
+              "Gold": 10.2
+            },
+            "40-44": {
+              "Bronze": 8.6,
+              "Silver": 9.2,
+              "Gold": 9.85
+            },
+            "45-49": {
+              "Bronze": 8.3,
+              "Silver": 8.95,
+              "Gold": 9.7
+            }
+          },
+          "m": {
+            "70-74": {
+              "Bronze": 9.4,
+              "Silver": 10.7,
+              "Gold": 12
+            },
+            "75-79": {
+              "Bronze": 9.2,
+              "Silver": 10.5,
+              "Gold": 11.8
+            }
+          }
+        }
+      },
+      "STANDING_LONG_JUMP": {
+        "id": "STANDING_LONG_JUMP",
+        "name": "Standweitsprung",
+        "group": "STRENGTH",
+        "unit": "m",
+        "unit_original": "m",
+        "values": {
+          "w": {
+            "90": {
+              "Bronze": 0.8,
+              "Silver": 1,
+              "Gold": 1.2
+            },
+            "6-7": {
+              "Bronze": 1.05,
+              "Silver": 1.25,
+              "Gold": 1.4
+            },
+            "8-9": {
+              "Bronze": 1.15,
+              "Silver": 1.3,
+              "Gold": 1.5
+            },
+            "10-11": {
+              "Bronze": 1.3,
+              "Silver": 1.45,
+              "Gold": 1.65
+            },
+            "12-13": {
+              "Bronze": 1.4,
+              "Silver": 1.6,
+              "Gold": 1.8
+            },
+            "14-15": {
+              "Bronze": 1.55,
+              "Silver": 1.7,
+              "Gold": 1.9
+            },
+            "16-17": {
+              "Bronze": 1.65,
+              "Silver": 1.8,
+              "Gold": 2
+            },
+            "18-19": {
+              "Bronze": 1.65,
+              "Silver": 1.85,
+              "Gold": 2.05
+            },
+            "20-24": {
+              "Bronze": 1.6,
+              "Silver": 1.8,
+              "Gold": 2
+            },
+            "25-29": {
+              "Bronze": 1.5,
+              "Silver": 1.7,
+              "Gold": 1.95
+            },
+            "30-34": {
+              "Bronze": 1.35,
+              "Silver": 1.6,
+              "Gold": 1.85
+            },
+            "35-39": {
+              "Bronze": 1.25,
+              "Silver": 1.5,
+              "Gold": 1.8
+            },
+            "40-44": {
+              "Bronze": 1.15,
+              "Silver": 1.4,
+              "Gold": 1.65
+            },
+            "45-49": {
+              "Bronze": 1.1,
+              "Silver": 1.35,
+              "Gold": 1.6
+            },
+            "50-54": {
+              "Bronze": 1,
+              "Silver": 1.3,
+              "Gold": 1.55
+            },
+            "55-59": {
+              "Bronze": 0.95,
+              "Silver": 1.25,
+              "Gold": 1.5
+            },
+            "60-64": {
+              "Bronze": 0.95,
+              "Silver": 1.2,
+              "Gold": 1.45
+            },
+            "65-69": {
+              "Bronze": 0.9,
+              "Silver": 1.15,
+              "Gold": 1.4
+            },
+            "70-74": {
+              "Bronze": 0.9,
+              "Silver": 1.15,
+              "Gold": 1.35
+            },
+            "75-79": {
+              "Bronze": 0.9,
+              "Silver": 1.15,
+              "Gold": 1.35
+            },
+            "80-84": {
+              "Bronze": 0.85,
+              "Silver": 1.1,
+              "Gold": 1.3
+            },
+            "85-89": {
+              "Bronze": 0.85,
+              "Silver": 1.05,
+              "Gold": 1.25
+            }
+          },
+          "m": {
+            "90": {
+              "Bronze": 0.9,
+              "Silver": 1.2,
+              "Gold": 1.5
+            },
+            "6-7": {
+              "Bronze": 1.15,
+              "Silver": 1.35,
+              "Gold": 1.5
+            },
+            "8-9": {
+              "Bronze": 1.3,
+              "Silver": 1.5,
+              "Gold": 1.65
+            },
+            "10-11": {
+              "Bronze": 1.5,
+              "Silver": 1.7,
+              "Gold": 1.85
+            },
+            "12-13": {
+              "Bronze": 1.7,
+              "Silver": 1.9,
+              "Gold": 2.05
+            },
+            "14-15": {
+              "Bronze": 1.9,
+              "Silver": 2.05,
+              "Gold": 2.25
+            },
+            "16-17": {
+              "Bronze": 2.05,
+              "Silver": 2.2,
+              "Gold": 2.4
+            },
+            "18-19": {
+              "Bronze": 2.1,
+              "Silver": 2.3,
+              "Gold": 2.5
+            },
+            "20-24": {
+              "Bronze": 2.1,
+              "Silver": 2.3,
+              "Gold": 2.5
+            },
+            "25-29": {
+              "Bronze": 2.05,
+              "Silver": 2.25,
+              "Gold": 2.45
+            },
+            "30-34": {
+              "Bronze": 1.85,
+              "Silver": 2.1,
+              "Gold": 2.35
+            },
+            "35-39": {
+              "Bronze": 1.65,
+              "Silver": 1.95,
+              "Gold": 2.25
+            },
+            "40-44": {
+              "Bronze": 1.55,
+              "Silver": 1.85,
+              "Gold": 2.15
+            },
+            "45-49": {
+              "Bronze": 1.45,
+              "Silver": 1.75,
+              "Gold": 2.05
+            },
+            "50-54": {
+              "Bronze": 1.4,
+              "Silver": 1.7,
+              "Gold": 2
+            },
+            "55-59": {
+              "Bronze": 1.35,
+              "Silver": 1.65,
+              "Gold": 1.95
+            },
+            "60-64": {
+              "Bronze": 1.3,
+              "Silver": 1.6,
+              "Gold": 1.9
+            },
+            "65-69": {
+              "Bronze": 1.3,
+              "Silver": 1.6,
+              "Gold": 1.9
+            },
+            "70-74": {
+              "Bronze": 1.25,
+              "Silver": 1.55,
+              "Gold": 1.85
+            },
+            "75-79": {
+              "Bronze": 1.2,
+              "Silver": 1.5,
+              "Gold": 1.8
+            },
+            "80-84": {
+              "Bronze": 1.15,
+              "Silver": 1.45,
+              "Gold": 1.75
+            },
+            "85-89": {
+              "Bronze": 1,
+              "Silver": 1.3,
+              "Gold": 1.6
+            }
+          }
+        }
+      },
+      "ARTISTIC_GYMNASTICS_STRENGTH": {
+        "id": "ARTISTIC_GYMNASTICS_STRENGTH",
+        "name": "Gerätturnen",
+        "group": "STRENGTH",
+        "unit": "",
+        "unit_original": "",
+        "values": {
+          "w": {
+            "90": {
+              "Bronze": "Boden",
+              "Silver": "Boden",
+              "Gold": "Boden"
+            },
+            "6-7": {
+              "Bronze": "Boden",
+              "Silver": "Boden",
+              "Gold": "Boden"
+            },
+            "8-9": {
+              "Bronze": "Boden",
+              "Silver": "Boden",
+              "Gold": "Boden"
+            },
+            "10-11": {
+              "Bronze": "Barren",
+              "Silver": "Barren",
+              "Gold": "Barren"
+            },
+            "12-13": {
+              "Bronze": "Reck",
+              "Silver": "Reck",
+              "Gold": "Reck"
+            },
+            "14-15": {
+              "Bronze": "Boden",
+              "Silver": "Boden",
+              "Gold": "Boden"
+            },
+            "16-17": {
+              "Bronze": "Reck",
+              "Silver": "Reck",
+              "Gold": "Reck"
+            },
+            "18-19": {
+              "Bronze": "Reck",
+              "Silver": "Reck",
+              "Gold": "Reck"
+            },
+            "20-24": {
+              "Bronze": "Reck",
+              "Silver": "Reck",
+              "Gold": "Reck"
+            },
+            "25-29": {
+              "Bronze": "Reck",
+              "Silver": "Reck",
+              "Gold": "Reck"
+            },
+            "30-34": {
+              "Bronze": "Boden",
+              "Silver": "Boden",
+              "Gold": "Boden"
+            },
+            "35-39": {
+              "Bronze": "Boden",
+              "Silver": "Boden",
+              "Gold": "Boden"
+            },
+            "40-44": {
+              "Bronze": "Reck",
+              "Silver": "Reck",
+              "Gold": "Reck"
+            },
+            "45-49": {
+              "Bronze": "Reck",
+              "Silver": "Reck",
+              "Gold": "Reck"
+            },
+            "50-54": {
+              "Bronze": "Barren",
+              "Silver": "Barren",
+              "Gold": "Barren"
+            },
+            "55-59": {
+              "Bronze": "Barren",
+              "Silver": "Barren",
+              "Gold": "Barren"
+            },
+            "60-64": {
+              "Bronze": "Boden",
+              "Silver": "Boden",
+              "Gold": "Boden"
+            },
+            "65-69": {
+              "Bronze": "Boden",
+              "Silver": "Boden",
+              "Gold": "Boden"
+            },
+            "70-74": {
+              "Bronze": "Boden",
+              "Silver": "Boden",
+              "Gold": "Boden"
+            },
+            "75-79": {
+              "Bronze": "Boden",
+              "Silver": "Boden",
+              "Gold": "Boden"
+            },
+            "80-84": {
+              "Bronze": "Boden",
+              "Silver": "Boden",
+              "Gold": "Boden"
+            },
+            "85-89": {
+              "Bronze": "Boden",
+              "Silver": "Boden",
+              "Gold": "Boden"
+            }
+          },
+          "m": {
+            "90": {
+              "Bronze": "Boden",
+              "Silver": "Boden",
+              "Gold": "Boden"
+            },
+            "6-7": {
+              "Bronze": "Boden",
+              "Silver": "Boden",
+              "Gold": "Boden"
+            },
+            "8-9": {
+              "Bronze": "Boden",
+              "Silver": "Boden",
+              "Gold": "Boden"
+            },
+            "10-11": {
+              "Bronze": "Barren",
+              "Silver": "Barren",
+              "Gold": "Barren"
+            },
+            "12-13": {
+              "Bronze": "Reck",
+              "Silver": "Reck",
+              "Gold": "Reck"
+            },
+            "14-15": {
+              "Bronze": "Boden",
+              "Silver": "Boden",
+              "Gold": "Boden"
+            },
+            "16-17": {
+              "Bronze": "Reck",
+              "Silver": "Reck",
+              "Gold": "Reck"
+            },
+            "18-19": {
+              "Bronze": "Reck",
+              "Silver": "Reck",
+              "Gold": "Reck"
+            },
+            "20-24": {
+              "Bronze": "Reck",
+              "Silver": "Reck",
+              "Gold": "Reck"
+            },
+            "25-29": {
+              "Bronze": "Reck",
+              "Silver": "Reck",
+              "Gold": "Reck"
+            },
+            "30-34": {
+              "Bronze": "Boden",
+              "Silver": "Boden",
+              "Gold": "Boden"
+            },
+            "35-39": {
+              "Bronze": "Boden",
+              "Silver": "Boden",
+              "Gold": "Boden"
+            },
+            "40-44": {
+              "Bronze": "Reck",
+              "Silver": "Reck",
+              "Gold": "Reck"
+            },
+            "45-49": {
+              "Bronze": "Reck",
+              "Silver": "Reck",
+              "Gold": "Reck"
+            },
+            "50-54": {
+              "Bronze": "Barren",
+              "Silver": "Barren",
+              "Gold": "Barren"
+            },
+            "55-59": {
+              "Bronze": "Barren",
+              "Silver": "Barren",
+              "Gold": "Barren"
+            },
+            "60-64": {
+              "Bronze": "Boden",
+              "Silver": "Boden",
+              "Gold": "Boden"
+            },
+            "65-69": {
+              "Bronze": "Boden",
+              "Silver": "Boden",
+              "Gold": "Boden"
+            },
+            "70-74": {
+              "Bronze": "Boden",
+              "Silver": "Boden",
+              "Gold": "Boden"
+            },
+            "75-79": {
+              "Bronze": "Boden",
+              "Silver": "Boden",
+              "Gold": "Boden"
+            },
+            "80-84": {
+              "Bronze": "Boden",
+              "Silver": "Boden",
+              "Gold": "Boden"
+            },
+            "85-89": {
+              "Bronze": "Boden",
+              "Silver": "Boden",
+              "Gold": "Boden"
+            }
+          }
+        }
+      },
+      "PUSH_UPS": {
+        "id": "PUSH_UPS",
+        "name": "Push-Ups/Liegestützen",
+        "group": "STRENGTH",
+        "unit": "",
+        "unit_original": "",
+        "values": {
+          "w": {
+            "90": {
+              "Bronze": 3,
+              "Silver": 5,
+              "Gold": 8
+            },
+            "18-19": {
+              "Bronze": 8,
+              "Silver": 12,
+              "Gold": 17
+            },
+            "20-24": {
+              "Bronze": 8,
+              "Silver": 11,
+              "Gold": 17
+            },
+            "25-29": {
+              "Bronze": 8,
+              "Silver": 11,
+              "Gold": 16
+            },
+            "30-34": {
+              "Bronze": 7,
+              "Silver": 10,
+              "Gold": 16
+            },
+            "35-39": {
+              "Bronze": 7,
+              "Silver": 10,
+              "Gold": 15
+            },
+            "40-44": {
+              "Bronze": 6,
+              "Silver": 9,
+              "Gold": 14
+            },
+            "45-49": {
+              "Bronze": 6,
+              "Silver": 9,
+              "Gold": 14
+            },
+            "50-54": {
+              "Bronze": 5,
+              "Silver": 8,
+              "Gold": 13
+            },
+            "55-59": {
+              "Bronze": 5,
+              "Silver": 8,
+              "Gold": 12
+            },
+            "60-64": {
+              "Bronze": 5,
+              "Silver": 8,
+              "Gold": 12
+            },
+            "65-69": {
+              "Bronze": 4,
+              "Silver": 7,
+              "Gold": 12
+            },
+            "70-74": {
+              "Bronze": 4,
+              "Silver": 7,
+              "Gold": 11
+            },
+            "75-79": {
+              "Bronze": 4,
+              "Silver": 7,
+              "Gold": 11
+            },
+            "80-84": {
+              "Bronze": 3,
+              "Silver": 7,
+              "Gold": 10
+            },
+            "85-89": {
+              "Bronze": 3,
+              "Silver": 6,
+              "Gold": 10
+            }
+          },
+          "m": {
+            "90": {
+              "Bronze": 6,
+              "Silver": 11,
+              "Gold": 20
+            },
+            "18-19": {
+              "Bronze": 23,
+              "Silver": 33,
+              "Gold": 47
+            },
+            "20-24": {
+              "Bronze": 23,
+              "Silver": 33,
+              "Gold": 47
+            },
+            "25-29": {
+              "Bronze": 22,
+              "Silver": 32,
+              "Gold": 46
+            },
+            "30-34": {
+              "Bronze": 21,
+              "Silver": 31,
+              "Gold": 44
+            },
+            "35-39": {
+              "Bronze": 19,
+              "Silver": 29,
+              "Gold": 42
+            },
+            "40-44": {
+              "Bronze": 17,
+              "Silver": 26,
+              "Gold": 39
+            },
+            "45-49": {
+              "Bronze": 15,
+              "Silver": 24,
+              "Gold": 35
+            },
+            "50-54": {
+              "Bronze": 13,
+              "Silver": 22,
+              "Gold": 33
+            },
+            "55-59": {
+              "Bronze": 11,
+              "Silver": 19,
+              "Gold": 29
+            },
+            "60-64": {
+              "Bronze": 10,
+              "Silver": 18,
+              "Gold": 27
+            },
+            "65-69": {
+              "Bronze": 9,
+              "Silver": 17,
+              "Gold": 26
+            },
+            "70-74": {
+              "Bronze": 9,
+              "Silver": 16,
+              "Gold": 25
+            },
+            "75-79": {
+              "Bronze": 9,
+              "Silver": 16,
+              "Gold": 25
+            },
+            "80-84": {
+              "Bronze": 7,
+              "Silver": 14,
+              "Gold": 23
+            },
+            "85-89": {
+              "Bronze": 7,
+              "Silver": 12,
+              "Gold": 21
+            }
+          }
+        }
+      },
+      "CRUNCHES": {
+        "id": "CRUNCHES",
+        "name": "Crunches/Curl-up-Test/Bauchpresse",
+        "group": "STRENGTH",
+        "unit": "",
+        "unit_original": "",
+        "values": {
+          "w": {
+            "90": {
+              "Bronze": 5,
+              "Silver": 12,
+              "Gold": 23
+            },
+            "18-19": {
+              "Bronze": 32,
+              "Silver": 41,
+              "Gold": 52
+            },
+            "20-24": {
+              "Bronze": 32,
+              "Silver": 41,
+              "Gold": 53
+            },
+            "25-29": {
+              "Bronze": 31,
+              "Silver": 41,
+              "Gold": 52
+            },
+            "30-34": {
+              "Bronze": 29,
+              "Silver": 39,
+              "Gold": 50
+            },
+            "35-39": {
+              "Bronze": 27,
+              "Silver": 37,
+              "Gold": 48
+            },
+            "40-44": {
+              "Bronze": 24,
+              "Silver": 34,
+              "Gold": 45
+            },
+            "45-49": {
+              "Bronze": 22,
+              "Silver": 31,
+              "Gold": 41
+            },
+            "50-54": {
+              "Bronze": 19,
+              "Silver": 28,
+              "Gold": 38
+            },
+            "55-59": {
+              "Bronze": 16,
+              "Silver": 25,
+              "Gold": 35
+            },
+            "60-64": {
+              "Bronze": 13,
+              "Silver": 22,
+              "Gold": 32
+            },
+            "65-69": {
+              "Bronze": 11,
+              "Silver": 20,
+              "Gold": 30
+            },
+            "70-74": {
+              "Bronze": 10,
+              "Silver": 18,
+              "Gold": 28
+            },
+            "75-79": {
+              "Bronze": 9,
+              "Silver": 18,
+              "Gold": 28
+            },
+            "80-84": {
+              "Bronze": 8,
+              "Silver": 16,
+              "Gold": 26
+            },
+            "85-89": {
+              "Bronze": 7,
+              "Silver": 14,
+              "Gold": 24
+            }
+          },
+          "m": {
+            "90": {
+              "Bronze": 3,
+              "Silver": 14,
+              "Gold": 27
+            },
+            "18-19": {
+              "Bronze": 38,
+              "Silver": 49,
+              "Gold": 62
+            },
+            "20-24": {
+              "Bronze": 37,
+              "Silver": 48,
+              "Gold": 62
+            },
+            "25-29": {
+              "Bronze": 36,
+              "Silver": 47,
+              "Gold": 61
+            },
+            "30-34": {
+              "Bronze": 34,
+              "Silver": 46,
+              "Gold": 59
+            },
+            "35-39": {
+              "Bronze": 32,
+              "Silver": 43,
+              "Gold": 57
+            },
+            "40-44": {
+              "Bronze": 29,
+              "Silver": 41,
+              "Gold": 54
+            },
+            "45-49": {
+              "Bronze": 27,
+              "Silver": 38,
+              "Gold": 51
+            },
+            "50-54": {
+              "Bronze": 24,
+              "Silver": 35,
+              "Gold": 48
+            },
+            "55-59": {
+              "Bronze": 21,
+              "Silver": 32,
+              "Gold": 45
+            },
+            "60-64": {
+              "Bronze": 18,
+              "Silver": 29,
+              "Gold": 42
+            },
+            "65-69": {
+              "Bronze": 15,
+              "Silver": 26,
+              "Gold": 39
+            },
+            "70-74": {
+              "Bronze": 12,
+              "Silver": 23,
+              "Gold": 36
+            },
+            "75-79": {
+              "Bronze": 10,
+              "Silver": 20,
+              "Gold": 33
+            },
+            "80-84": {
+              "Bronze": 7,
+              "Silver": 18,
+              "Gold": 31
+            },
+            "85-89": {
+              "Bronze": 5,
+              "Silver": 16,
+              "Gold": 29
+            }
+          }
+        }
+      },
+      "TRICEPS_DIPS": {
+        "id": "TRICEPS_DIPS",
+        "name": "Triceps-Dips/Beugestütz",
+        "group": "STRENGTH",
+        "unit": "",
+        "unit_original": "",
+        "values": {
+          "w": {
+            "90": {
+              "Bronze": 3,
+              "Silver": 7,
+              "Gold": 13
+            },
+            "18-19": {
+              "Bronze": 16,
+              "Silver": 21,
+              "Gold": 27
+            },
+            "20-24": {
+              "Bronze": 16,
+              "Silver": 21,
+              "Gold": 27
+            },
+            "25-29": {
+              "Bronze": 15,
+              "Silver": 20,
+              "Gold": 27
+            },
+            "30-34": {
+              "Bronze": 14,
+              "Silver": 20,
+              "Gold": 26
+            },
+            "35-39": {
+              "Bronze": 13,
+              "Silver": 19,
+              "Gold": 25
+            },
+            "40-44": {
+              "Bronze": 12,
+              "Silver": 18,
+              "Gold": 24
+            },
+            "45-49": {
+              "Bronze": 11,
+              "Silver": 17,
+              "Gold": 23
+            },
+            "50-54": {
+              "Bronze": 10,
+              "Silver": 15,
+              "Gold": 21
+            },
+            "55-59": {
+              "Bronze": 9,
+              "Silver": 14,
+              "Gold": 20
+            },
+            "60-64": {
+              "Bronze": 8,
+              "Silver": 13,
+              "Gold": 19
+            },
+            "65-69": {
+              "Bronze": 7,
+              "Silver": 12,
+              "Gold": 18
+            },
+            "70-74": {
+              "Bronze": 6,
+              "Silver": 11,
+              "Gold": 17
+            },
+            "75-79": {
+              "Bronze": 5,
+              "Silver": 10,
+              "Gold": 16
+            },
+            "80-84": {
+              "Bronze": 4,
+              "Silver": 9,
+              "Gold": 15
+            },
+            "85-89": {
+              "Bronze": 3,
+              "Silver": 8,
+              "Gold": 14
+            }
+          },
+          "m": {
+            "90": {
+              "Bronze": 5,
+              "Silver": 10,
+              "Gold": 19
+            },
+            "18-19": {
+              "Bronze": 29,
+              "Silver": 38,
+              "Gold": 49
+            },
+            "20-24": {
+              "Bronze": 29,
+              "Silver": 39,
+              "Gold": 50
+            },
+            "25-29": {
+              "Bronze": 28,
+              "Silver": 38,
+              "Gold": 50
+            },
+            "30-34": {
+              "Bronze": 27,
+              "Silver": 37,
+              "Gold": 48
+            },
+            "35-39": {
+              "Bronze": 25,
+              "Silver": 35,
+              "Gold": 46
+            },
+            "40-44": {
+              "Bronze": 22,
+              "Silver": 32,
+              "Gold": 44
+            },
+            "45-49": {
+              "Bronze": 20,
+              "Silver": 29,
+              "Gold": 41
+            },
+            "50-54": {
+              "Bronze": 17,
+              "Silver": 27,
+              "Gold": 38
+            },
+            "55-59": {
+              "Bronze": 14,
+              "Silver": 24,
+              "Gold": 35
+            },
+            "60-64": {
+              "Bronze": 12,
+              "Silver": 21,
+              "Gold": 32
+            },
+            "65-69": {
+              "Bronze": 10,
+              "Silver": 19,
+              "Gold": 30
+            },
+            "70-74": {
+              "Bronze": 9,
+              "Silver": 18,
+              "Gold": 29
+            },
+            "75-79": {
+              "Bronze": 8,
+              "Silver": 16,
+              "Gold": 27
+            },
+            "80-84": {
+              "Bronze": 7,
+              "Silver": 15,
+              "Gold": 25
+            },
+            "85-89": {
+              "Bronze": 6,
+              "Silver": 13,
+              "Gold": 22
+            }
+          }
+        }
+      },
+      "PULL_UPS": {
+        "id": "PULL_UPS",
+        "name": "Pull-Ups/Klimmzüge",
+        "group": "STRENGTH",
+        "unit": "",
+        "unit_original": "",
+        "values": {
+          "w": {
+            "90": {
+              "Bronze": "–",
+              "Silver": 1,
+              "Gold": 2
+            },
+            "18-19": {
+              "Bronze": 1,
+              "Silver": 3,
+              "Gold": 6
+            },
+            "20-24": {
+              "Bronze": 1,
+              "Silver": 4,
+              "Gold": 6
+            },
+            "25-29": {
+              "Bronze": 1,
+              "Silver": 4,
+              "Gold": 6
+            },
+            "30-34": {
+              "Bronze": 1,
+              "Silver": 4,
+              "Gold": 6
+            },
+            "35-39": {
+              "Bronze": 1,
+              "Silver": 3,
+              "Gold": 6
+            },
+            "40-44": {
+              "Bronze": 1,
+              "Silver": 3,
+              "Gold": 6
+            },
+            "45-49": {
+              "Bronze": 1,
+              "Silver": 2,
+              "Gold": 5
+            },
+            "50-54": {
+              "Bronze": 1,
+              "Silver": 2,
+              "Gold": 5
+            },
+            "55-59": {
+              "Bronze": 1,
+              "Silver": 2,
+              "Gold": 4
+            },
+            "60-64": {
+              "Bronze": 1,
+              "Silver": 2,
+              "Gold": 4
+            },
+            "65-69": {
+              "Bronze": 1,
+              "Silver": 2,
+              "Gold": 4
+            },
+            "70-74": {
+              "Bronze": 1,
+              "Silver": 2,
+              "Gold": 4
+            },
+            "75-79": {
+              "Bronze": 1,
+              "Silver": 2,
+              "Gold": 3
+            },
+            "80-84": {
+              "Bronze": 1,
+              "Silver": 2,
+              "Gold": 3
+            },
+            "85-89": {
+              "Bronze": "–",
+              "Silver": 1,
+              "Gold": 2
+            }
+          },
+          "m": {
+            "90": {
+              "Bronze": "–",
+              "Silver": 1,
+              "Gold": 3
+            },
+            "18-19": {
+              "Bronze": 5,
+              "Silver": 11,
+              "Gold": 15
+            },
+            "20-24": {
+              "Bronze": 5,
+              "Silver": 12,
+              "Gold": 16
+            },
+            "25-29": {
+              "Bronze": 5,
+              "Silver": 12,
+              "Gold": 16
+            },
+            "30-34": {
+              "Bronze": 5,
+              "Silver": 11,
+              "Gold": 15
+            },
+            "35-39": {
+              "Bronze": 4,
+              "Silver": 10,
+              "Gold": 14
+            },
+            "40-44": {
+              "Bronze": 2,
+              "Silver": 9,
+              "Gold": 13
+            },
+            "45-49": {
+              "Bronze": 1,
+              "Silver": 7,
+              "Gold": 11
+            },
+            "50-54": {
+              "Bronze": 1,
+              "Silver": 6,
+              "Gold": 10
+            },
+            "55-59": {
+              "Bronze": 1,
+              "Silver": 4,
+              "Gold": 9
+            },
+            "60-64": {
+              "Bronze": 1,
+              "Silver": 4,
+              "Gold": 8
+            },
+            "65-69": {
+              "Bronze": 1,
+              "Silver": 3,
+              "Gold": 8
+            },
+            "70-74": {
+              "Bronze": 1,
+              "Silver": 3,
+              "Gold": 7
+            },
+            "75-79": {
+              "Bronze": 1,
+              "Silver": 2,
+              "Gold": 6
+            },
+            "80-84": {
+              "Bronze": 1,
+              "Silver": 2,
+              "Gold": 5
+            },
+            "85-89": {
+              "Bronze": "–",
+              "Silver": 1,
+              "Gold": 3
+            }
+          }
+        }
+      },
+      "5KG_BALL_THRUSTING": {
+        "id": "5KG_BALL_THRUSTING",
+        "name": "Kugelstoßen (5 kg)",
+        "group": "STRENGTH",
+        "unit": "m",
+        "unit_original": "m",
+        "values": {
+          "w": {},
+          "m": {
+            "16-17": {
+              "Bronze": 7.5,
+              "Silver": 8,
+              "Gold": 8.5
+            },
+            "60-64": {
+              "Bronze": 6,
+              "Silver": 7,
+              "Gold": 8
+            },
+            "65-69": {
+              "Bronze": 5.75,
+              "Silver": 6.75,
+              "Gold": 7.5
+            }
+          }
+        }
+      },
+      "6KG_BALL_THRUSTING": {
+        "id": "6KG_BALL_THRUSTING",
+        "name": "Kugelstoßen (6 kg)",
+        "group": "STRENGTH",
+        "unit": "m",
+        "unit_original": "m",
+        "values": {
+          "w": {},
+          "m": {
+            "18-19": {
+              "Bronze": 7.75,
+              "Silver": 8.25,
+              "Gold": 8.75
+            },
+            "50-54": {
+              "Bronze": 6.25,
+              "Silver": 7,
+              "Gold": 8
+            },
+            "55-59": {
+              "Bronze": 6,
+              "Silver": 6.75,
+              "Gold": 7.5
+            }
+          }
+        }
+      },
+      "7.26KG_BALL_THRUSTING": {
+        "id": "7.26KG_BALL_THRUSTING",
+        "name": "Kugelstoßen (7,26 kg)",
+        "group": "STRENGTH",
+        "unit": "m",
+        "unit_original": "m",
+        "values": {
+          "w": {},
+          "m": {
+            "20-24": {
+              "Bronze": 7.75,
+              "Silver": 8.5,
+              "Gold": 9
+            },
+            "25-29": {
+              "Bronze": 7.5,
+              "Silver": 8.25,
+              "Gold": 8.75
+            },
+            "30-34": {
+              "Bronze": 7,
+              "Silver": 7.75,
+              "Gold": 8.25
+            },
+            "35-39": {
+              "Bronze": 6.75,
+              "Silver": 7.25,
+              "Gold": 8
+            },
+            "40-44": {
+              "Bronze": 6.25,
+              "Silver": 7,
+              "Gold": 7.75
+            },
+            "45-49": {
+              "Bronze": 6,
+              "Silver": 6.75,
+              "Gold": 7.5
+            }
+          }
+        }
+      },
+      "7.5KG_STONE_THRUSTING": {
+        "id": "7.5KG_STONE_THRUSTING",
+        "name": "Steinstoßen (7,5 kg)",
+        "group": "STRENGTH",
+        "unit": "m",
+        "unit_original": "m",
+        "values": {
+          "w": {},
+          "m": {
+            "60-64": {
+              "Bronze": 7.65,
+              "Silver": 8.95,
+              "Gold": 10.25
+            },
+            "65-69": {
+              "Bronze": 7.25,
+              "Silver": 8.55,
+              "Gold": 9.85
+            }
+          }
+        }
+      },
+      "10KG_STONE_THRUSTING": {
+        "id": "10KG_STONE_THRUSTING",
+        "name": "Steinstoßen (10 kg)",
+        "group": "STRENGTH",
+        "unit": "m",
+        "unit_original": "m",
+        "values": {
+          "w": {},
+          "m": {
+            "18-19": {
+              "Bronze": 9.3,
+              "Silver": 10.1,
+              "Gold": 10.95
+            },
+            "50-54": {
+              "Bronze": 7.95,
+              "Silver": 9.25,
+              "Gold": 10.55
+            },
+            "55-59": {
+              "Bronze": 7.75,
+              "Silver": 9.05,
+              "Gold": 10.35
+            }
+          }
+        }
+      },
+      "15KG_STONE_THRUSTING": {
+        "id": "15KG_STONE_THRUSTING",
+        "name": "Steinstoßen (15 kg)",
+        "group": "STRENGTH",
+        "unit": "m",
+        "unit_original": "m",
+        "values": {
+          "w": {},
+          "m": {
+            "20-24": {
+              "Bronze": 7.7,
+              "Silver": 8.65,
+              "Gold": 9.55
+            },
+            "25-29": {
+              "Bronze": 7.45,
+              "Silver": 8.45,
+              "Gold": 9.45
+            },
+            "30-34": {
+              "Bronze": 7.1,
+              "Silver": 8.15,
+              "Gold": 9.15
+            },
+            "35-39": {
+              "Bronze": 6.75,
+              "Silver": 7.75,
+              "Gold": 8.8
+            },
+            "40-44": {
+              "Bronze": 6.1,
+              "Silver": 7.4,
+              "Gold": 8.65
+            },
+            "45-49": {
+              "Bronze": 5.5,
+              "Silver": 7.05,
+              "Gold": 8.6
+            }
+          }
+        }
+      }
+    }
+  },
+  "SPEED": {
+    "id": "SPEED",
+    "name": "Schnelligkeit",
+    "disciplines": {
+      "30M_SPRINT": {
+        "id": "30M_SPRINT",
+        "name": "Laufen (30 m)",
+        "group": "SPEED",
+        "unit": "sec",
+        "unit_original": "Sek",
+        "values": {
+          "w": {
+            "6-7": {
+              "Bronze": 8,
+              "Silver": 7.1,
+              "Gold": 6.3
+            },
+            "8-9": {
+              "Bronze": 7.4,
+              "Silver": 6.6,
+              "Gold": 5.7
+            }
+          },
+          "m": {
+            "6-7": {
+              "Bronze": 7.7,
+              "Silver": 6.8,
+              "Gold": 6
+            },
+            "8-9": {
+              "Bronze": 7.2,
+              "Silver": 6.4,
+              "Gold": 5.7
+            }
+          }
+        }
+      },
+      "50M_SPRINT": {
+        "id": "50M_SPRINT",
+        "name": "Laufen (50 m)",
+        "group": "SPEED",
+        "unit": "sec",
+        "unit_original": "Sek",
+        "values": {
+          "w": {
+            "90": {
+              "Bronze": 17.1,
+              "Silver": 15.9,
+              "Gold": 14.8
+            },
+            "10-11": {
+              "Bronze": 11,
+              "Silver": 10.1,
+              "Gold": 9.1
+            },
+            "12-13": {
+              "Bronze": 10.6,
+              "Silver": 9.6,
+              "Gold": 8.5
+            },
+            "40-44": {
+              "Bronze": 11,
+              "Silver": 9.9,
+              "Gold": 8.8
+            },
+            "45-49": {
+              "Bronze": 11.5,
+              "Silver": 10.3,
+              "Gold": 9.1
+            },
+            "50-54": {
+              "Bronze": 11.9,
+              "Silver": 10.7,
+              "Gold": 9.5
+            },
+            "55-59": {
+              "Bronze": 12.4,
+              "Silver": 11.2,
+              "Gold": 9.9
+            },
+            "60-64": {
+              "Bronze": 12.6,
+              "Silver": 11.4,
+              "Gold": 10.2
+            },
+            "65-69": {
+              "Bronze": 12.8,
+              "Silver": 11.6,
+              "Gold": 10.4
+            },
+            "70-74": {
+              "Bronze": 13,
+              "Silver": 11.8,
+              "Gold": 10.6
+            },
+            "75-79": {
+              "Bronze": 13.5,
+              "Silver": 12.3,
+              "Gold": 11.1
+            },
+            "80-84": {
+              "Bronze": 14.3,
+              "Silver": 13.1,
+              "Gold": 12
+            },
+            "85-89": {
+              "Bronze": 15.5,
+              "Silver": 14.3,
+              "Gold": 13.2
+            }
+          },
+          "m": {
+            "90": {
+              "Bronze": 15.5,
+              "Silver": 14.5,
+              "Gold": 13.4
+            },
+            "10-11": {
+              "Bronze": 10.3,
+              "Silver": 9.3,
+              "Gold": 8.4
+            },
+            "12-13": {
+              "Bronze": 9.7,
+              "Silver": 8.9,
+              "Gold": 8.1
+            },
+            "40-44": {
+              "Bronze": 9.6,
+              "Silver": 8.7,
+              "Gold": 7.7
+            },
+            "45-49": {
+              "Bronze": 10,
+              "Silver": 8.9,
+              "Gold": 7.9
+            },
+            "50-54": {
+              "Bronze": 10.3,
+              "Silver": 9.1,
+              "Gold": 8.2
+            },
+            "55-59": {
+              "Bronze": 10.5,
+              "Silver": 9.4,
+              "Gold": 8.5
+            },
+            "60-64": {
+              "Bronze": 10.8,
+              "Silver": 9.7,
+              "Gold": 8.8
+            },
+            "65-69": {
+              "Bronze": 11.2,
+              "Silver": 10.2,
+              "Gold": 9.1
+            },
+            "70-74": {
+              "Bronze": 11.7,
+              "Silver": 10.7,
+              "Gold": 9.6
+            },
+            "75-79": {
+              "Bronze": 12.2,
+              "Silver": 11.2,
+              "Gold": 10.1
+            },
+            "80-84": {
+              "Bronze": 13,
+              "Silver": 12,
+              "Gold": 10.9
+            },
+            "85-89": {
+              "Bronze": 14.1,
+              "Silver": 13.1,
+              "Gold": 12
+            }
+          }
+        }
+      },
+      "100M_SPRINT": {
+        "id": "100M_SPRINT",
+        "name": "Laufen (100 m)",
+        "group": "SPEED",
+        "unit": "sec",
+        "unit_original": "Sek",
+        "values": {
+          "w": {
+            "14-15": {
+              "Bronze": 18.6,
+              "Silver": 17,
+              "Gold": 15.5
+            },
+            "16-17": {
+              "Bronze": 17.6,
+              "Silver": 16.3,
+              "Gold": 15
+            },
+            "18-19": {
+              "Bronze": 18.2,
+              "Silver": 16.5,
+              "Gold": 15.3
+            },
+            "20-24": {
+              "Bronze": 18.5,
+              "Silver": 16.8,
+              "Gold": 15.6
+            },
+            "25-29": {
+              "Bronze": 18.9,
+              "Silver": 17.2,
+              "Gold": 16
+            },
+            "30-34": {
+              "Bronze": 19.6,
+              "Silver": 17.8,
+              "Gold": 16.4
+            },
+            "35-39": {
+              "Bronze": 20.4,
+              "Silver": 18.6,
+              "Gold": 17
+            }
+          },
+          "m": {
+            "14-15": {
+              "Bronze": 17,
+              "Silver": 15.4,
+              "Gold": 14.1
+            },
+            "16-17": {
+              "Bronze": 16.3,
+              "Silver": 14.8,
+              "Gold": 13.5
+            },
+            "18-19": {
+              "Bronze": 16,
+              "Silver": 14.6,
+              "Gold": 13.2
+            },
+            "20-24": {
+              "Bronze": 15.8,
+              "Silver": 14.4,
+              "Gold": 13
+            },
+            "25-29": {
+              "Bronze": 16.3,
+              "Silver": 14.8,
+              "Gold": 13.3
+            },
+            "30-34": {
+              "Bronze": 16.8,
+              "Silver": 15.1,
+              "Gold": 13.6
+            },
+            "35-39": {
+              "Bronze": 17.6,
+              "Silver": 15.9,
+              "Gold": 14.2
+            }
+          }
+        }
+      },
+      "25M_SWIMMING": {
+        "id": "25M_SWIMMING",
+        "name": "25 m Schwimmen",
+        "group": "SPEED",
+        "unit": "sec",
+        "unit_original": "Sek",
+        "values": {
+          "w": {
+            "90": {
+              "Bronze": 66.5,
+              "Silver": 54.5,
+              "Gold": 42.5
+            },
+            "6-7": {
+              "Bronze": 46.5,
+              "Silver": 38.5,
+              "Gold": 30.5
+            },
+            "8-9": {
+              "Bronze": 42,
+              "Silver": 34,
+              "Gold": 28
+            },
+            "10-11": {
+              "Bronze": 39,
+              "Silver": 31.5,
+              "Gold": 25.5
+            },
+            "12-13": {
+              "Bronze": 35,
+              "Silver": 29,
+              "Gold": 23.5
+            },
+            "14-15": {
+              "Bronze": 33,
+              "Silver": 27.5,
+              "Gold": 21.5
+            },
+            "16-17": {
+              "Bronze": 30.5,
+              "Silver": 25.5,
+              "Gold": 20
+            },
+            "18-19": {
+              "Bronze": 29.5,
+              "Silver": 24,
+              "Gold": 18.5
+            },
+            "20-24": {
+              "Bronze": 29,
+              "Silver": 24,
+              "Gold": 18.5
+            },
+            "25-29": {
+              "Bronze": 30,
+              "Silver": 25,
+              "Gold": 19.5
+            },
+            "30-34": {
+              "Bronze": 32.5,
+              "Silver": 26.5,
+              "Gold": 21
+            },
+            "35-39": {
+              "Bronze": 36,
+              "Silver": 29,
+              "Gold": 22
+            },
+            "40-44": {
+              "Bronze": 40,
+              "Silver": 31.5,
+              "Gold": 23.5
+            },
+            "45-49": {
+              "Bronze": 44,
+              "Silver": 35,
+              "Gold": 25
+            },
+            "50-54": {
+              "Bronze": 48,
+              "Silver": 39,
+              "Gold": 28
+            },
+            "55-59": {
+              "Bronze": 51.5,
+              "Silver": 42.5,
+              "Gold": 30.5
+            },
+            "60-64": {
+              "Bronze": 54.5,
+              "Silver": 44.5,
+              "Gold": 32.5
+            },
+            "65-69": {
+              "Bronze": 56.5,
+              "Silver": 46.5,
+              "Gold": 34.5
+            },
+            "70-74": {
+              "Bronze": 59,
+              "Silver": 48,
+              "Gold": 36
+            },
+            "75-79": {
+              "Bronze": 61,
+              "Silver": 50,
+              "Gold": 38
+            },
+            "80-84": {
+              "Bronze": 63.5,
+              "Silver": 52,
+              "Gold": 40
+            },
+            "85-89": {
+              "Bronze": 65.5,
+              "Silver": 53.5,
+              "Gold": 41.5
+            }
+          },
+          "m": {
+            "90": {
+              "Bronze": 60,
+              "Silver": 50,
+              "Gold": 40
+            },
+            "6-7": {
+              "Bronze": 46,
+              "Silver": 38,
+              "Gold": 30
+            },
+            "8-9": {
+              "Bronze": 41,
+              "Silver": 33,
+              "Gold": 26
+            },
+            "10-11": {
+              "Bronze": 36,
+              "Silver": 29,
+              "Gold": 22.5
+            },
+            "12-13": {
+              "Bronze": 33,
+              "Silver": 27,
+              "Gold": 21
+            },
+            "14-15": {
+              "Bronze": 31,
+              "Silver": 25.5,
+              "Gold": 20
+            },
+            "16-17": {
+              "Bronze": 29.5,
+              "Silver": 24.5,
+              "Gold": 19
+            },
+            "18-19": {
+              "Bronze": 28,
+              "Silver": 23,
+              "Gold": 17.5
+            },
+            "20-24": {
+              "Bronze": 27,
+              "Silver": 22,
+              "Gold": 15.5
+            },
+            "25-29": {
+              "Bronze": 29,
+              "Silver": 23,
+              "Gold": 16.5
+            },
+            "30-34": {
+              "Bronze": 31.5,
+              "Silver": 24,
+              "Gold": 17
+            },
+            "35-39": {
+              "Bronze": 35,
+              "Silver": 26.5,
+              "Gold": 18.5
+            },
+            "40-44": {
+              "Bronze": 38.5,
+              "Silver": 29.5,
+              "Gold": 19
+            },
+            "45-49": {
+              "Bronze": 42,
+              "Silver": 32.5,
+              "Gold": 20.5
+            },
+            "50-54": {
+              "Bronze": 45,
+              "Silver": 35,
+              "Gold": 23
+            },
+            "55-59": {
+              "Bronze": 49,
+              "Silver": 37,
+              "Gold": 25
+            },
+            "60-64": {
+              "Bronze": 51,
+              "Silver": 39,
+              "Gold": 27
+            },
+            "65-69": {
+              "Bronze": 52.5,
+              "Silver": 40.5,
+              "Gold": 28.5
+            },
+            "70-74": {
+              "Bronze": 55,
+              "Silver": 43,
+              "Gold": 31
+            },
+            "75-79": {
+              "Bronze": 57.5,
+              "Silver": 45.5,
+              "Gold": 33.5
+            },
+            "80-84": {
+              "Bronze": 59,
+              "Silver": 48,
+              "Gold": 36
+            },
+            "85-89": {
+              "Bronze": 59.5,
+              "Silver": 49,
+              "Gold": 38
+            }
+          }
+        }
+      },
+      "200M_CYCLING": {
+        "id": "200M_CYCLING",
+        "name": "200 m Radfahren",
+        "group": "SPEED",
+        "unit": "sec",
+        "unit_original": "Sek",
+        "values": {
+          "w": {
+            "90": {
+              "Bronze": 44.5,
+              "Silver": 38,
+              "Gold": 31.5
+            },
+            "8-9": {
+              "Bronze": 41,
+              "Silver": 36,
+              "Gold": 31
+            },
+            "10-11": {
+              "Bronze": 37,
+              "Silver": 32,
+              "Gold": 27
+            },
+            "12-13": {
+              "Bronze": 31,
+              "Silver": 27,
+              "Gold": 23.5
+            },
+            "14-15": {
+              "Bronze": 27,
+              "Silver": 24.5,
+              "Gold": 21.5
+            },
+            "16-17": {
+              "Bronze": 25,
+              "Silver": 22.5,
+              "Gold": 20
+            },
+            "18-19": {
+              "Bronze": 24,
+              "Silver": 22,
+              "Gold": 19.5
+            },
+            "20-24": {
+              "Bronze": 24.5,
+              "Silver": 22,
+              "Gold": 19.5
+            },
+            "25-29": {
+              "Bronze": 25,
+              "Silver": 22.5,
+              "Gold": 20
+            },
+            "30-34": {
+              "Bronze": 26,
+              "Silver": 23.5,
+              "Gold": 21.5
+            },
+            "35-39": {
+              "Bronze": 27.5,
+              "Silver": 24.5,
+              "Gold": 22
+            },
+            "40-44": {
+              "Bronze": 29,
+              "Silver": 25.5,
+              "Gold": 22.5
+            },
+            "45-49": {
+              "Bronze": 30.5,
+              "Silver": 27,
+              "Gold": 23
+            },
+            "50-54": {
+              "Bronze": 32,
+              "Silver": 28,
+              "Gold": 23.5
+            },
+            "55-59": {
+              "Bronze": 33.5,
+              "Silver": 29,
+              "Gold": 24
+            },
+            "60-64": {
+              "Bronze": 35,
+              "Silver": 30,
+              "Gold": 25
+            },
+            "65-69": {
+              "Bronze": 36,
+              "Silver": 31,
+              "Gold": 25.5
+            },
+            "70-74": {
+              "Bronze": 38,
+              "Silver": 32,
+              "Gold": 26.5
+            },
+            "75-79": {
+              "Bronze": 39,
+              "Silver": 33,
+              "Gold": 27.5
+            },
+            "80-84": {
+              "Bronze": 40.5,
+              "Silver": 34.5,
+              "Gold": 28.5
+            },
+            "85-89": {
+              "Bronze": 42,
+              "Silver": 36,
+              "Gold": 30
+            }
+          },
+          "m": {
+            "90": {
+              "Bronze": 43.5,
+              "Silver": 35.5,
+              "Gold": 27
+            },
+            "8-9": {
+              "Bronze": 38,
+              "Silver": 33,
+              "Gold": 28
+            },
+            "10-11": {
+              "Bronze": 35,
+              "Silver": 30.5,
+              "Gold": 26
+            },
+            "12-13": {
+              "Bronze": 29.5,
+              "Silver": 26,
+              "Gold": 22.5
+            },
+            "14-15": {
+              "Bronze": 24,
+              "Silver": 21.5,
+              "Gold": 19
+            },
+            "16-17": {
+              "Bronze": 22,
+              "Silver": 19.5,
+              "Gold": 17
+            },
+            "18-19": {
+              "Bronze": 20.5,
+              "Silver": 18,
+              "Gold": 15.5
+            },
+            "20-24": {
+              "Bronze": 20,
+              "Silver": 17.5,
+              "Gold": 15
+            },
+            "25-29": {
+              "Bronze": 21,
+              "Silver": 18,
+              "Gold": 15
+            },
+            "30-34": {
+              "Bronze": 22.5,
+              "Silver": 18.5,
+              "Gold": 15
+            },
+            "35-39": {
+              "Bronze": 24,
+              "Silver": 20,
+              "Gold": 15.5
+            },
+            "40-44": {
+              "Bronze": 26.5,
+              "Silver": 21.5,
+              "Gold": 16.5
+            },
+            "45-49": {
+              "Bronze": 28.5,
+              "Silver": 23,
+              "Gold": 17
+            },
+            "50-54": {
+              "Bronze": 30,
+              "Silver": 24,
+              "Gold": 18
+            },
+            "55-59": {
+              "Bronze": 32,
+              "Silver": 25,
+              "Gold": 18.5
+            },
+            "60-64": {
+              "Bronze": 33.5,
+              "Silver": 26,
+              "Gold": 19
+            },
+            "65-69": {
+              "Bronze": 35,
+              "Silver": 27,
+              "Gold": 19.5
+            },
+            "70-74": {
+              "Bronze": 36,
+              "Silver": 28.5,
+              "Gold": 20
+            },
+            "75-79": {
+              "Bronze": 37.5,
+              "Silver": 29.5,
+              "Gold": 21.5
+            },
+            "80-84": {
+              "Bronze": 39,
+              "Silver": 31.5,
+              "Gold": 23
+            },
+            "85-89": {
+              "Bronze": 41,
+              "Silver": 33,
+              "Gold": 24.5
+            }
+          }
+        }
+      },
+      "ARTISTIC_GYMNASTICS_SPEED": {
+        "id": "ARTISTIC_GYMNASTICS_SPEED",
+        "name": "Gerätturnen",
+        "group": "SPEED",
+        "unit": "",
+        "unit_original": "",
+        "values": {
+          "w": {
+            "90": {
+              "Bronze": "Sprung",
+              "Silver": "Sprung",
+              "Gold": "Sprung"
+            },
+            "6-7": {
+              "Bronze": "Sprung",
+              "Silver": "Sprung",
+              "Gold": "Sprung"
+            },
+            "8-9": {
+              "Bronze": "Boden",
+              "Silver": "Boden",
+              "Gold": "Boden"
+            },
+            "10-11": {
+              "Bronze": "Sprung",
+              "Silver": "Sprung",
+              "Gold": "Sprung"
+            },
+            "12-13": {
+              "Bronze": "Sprung",
+              "Silver": "Sprung",
+              "Gold": "Sprung"
+            },
+            "14-15": {
+              "Bronze": "Sprung",
+              "Silver": "Sprung",
+              "Gold": "Sprung"
+            },
+            "16-17": {
+              "Bronze": "Sprung",
+              "Silver": "Sprung",
+              "Gold": "Sprung"
+            },
+            "18-19": {
+              "Bronze": "Sprung",
+              "Silver": "Sprung",
+              "Gold": "Sprung"
+            },
+            "20-24": {
+              "Bronze": "Sprung",
+              "Silver": "Sprung",
+              "Gold": "Sprung"
+            },
+            "25-29": {
+              "Bronze": "Sprung",
+              "Silver": "Sprung",
+              "Gold": "Sprung"
+            },
+            "30-34": {
+              "Bronze": "Sprung",
+              "Silver": "Sprung",
+              "Gold": "Sprung"
+            },
+            "35-39": {
+              "Bronze": "Sprung",
+              "Silver": "Sprung",
+              "Gold": "Sprung"
+            },
+            "40-44": {
+              "Bronze": "Sprung",
+              "Silver": "Sprung",
+              "Gold": "Sprung"
+            },
+            "45-49": {
+              "Bronze": "Sprung",
+              "Silver": "Sprung",
+              "Gold": "Sprung"
+            },
+            "50-54": {
+              "Bronze": "Sprung",
+              "Silver": "Sprung",
+              "Gold": "Sprung"
+            },
+            "55-59": {
+              "Bronze": "Sprung",
+              "Silver": "Sprung",
+              "Gold": "Sprung"
+            },
+            "60-64": {
+              "Bronze": "Boden",
+              "Silver": "Boden",
+              "Gold": "Boden"
+            },
+            "65-69": {
+              "Bronze": "Boden",
+              "Silver": "Boden",
+              "Gold": "Boden"
+            },
+            "70-74": {
+              "Bronze": "Sprung",
+              "Silver": "Sprung",
+              "Gold": "Sprung"
+            },
+            "75-79": {
+              "Bronze": "Sprung",
+              "Silver": "Sprung",
+              "Gold": "Sprung"
+            },
+            "80-84": {
+              "Bronze": "Sprung",
+              "Silver": "Sprung",
+              "Gold": "Sprung"
+            },
+            "85-89": {
+              "Bronze": "Sprung",
+              "Silver": "Sprung",
+              "Gold": "Sprung"
+            }
+          },
+          "m": {
+            "90": {
+              "Bronze": "Sprung",
+              "Silver": "Sprung",
+              "Gold": "Sprung"
+            },
+            "6-7": {
+              "Bronze": "Sprung",
+              "Silver": "Sprung",
+              "Gold": "Sprung"
+            },
+            "8-9": {
+              "Bronze": "Boden",
+              "Silver": "Boden",
+              "Gold": "Boden"
+            },
+            "10-11": {
+              "Bronze": "Sprung",
+              "Silver": "Sprung",
+              "Gold": "Sprung"
+            },
+            "12-13": {
+              "Bronze": "Sprung",
+              "Silver": "Sprung",
+              "Gold": "Sprung"
+            },
+            "14-15": {
+              "Bronze": "Sprung",
+              "Silver": "Sprung",
+              "Gold": "Sprung"
+            },
+            "16-17": {
+              "Bronze": "Sprung",
+              "Silver": "Sprung",
+              "Gold": "Sprung"
+            },
+            "18-19": {
+              "Bronze": "Sprung",
+              "Silver": "Sprung",
+              "Gold": "Sprung"
+            },
+            "20-24": {
+              "Bronze": "Sprung",
+              "Silver": "Sprung",
+              "Gold": "Sprung"
+            },
+            "25-29": {
+              "Bronze": "Sprung",
+              "Silver": "Sprung",
+              "Gold": "Sprung"
+            },
+            "30-34": {
+              "Bronze": "Sprung",
+              "Silver": "Sprung",
+              "Gold": "Sprung"
+            },
+            "35-39": {
+              "Bronze": "Sprung",
+              "Silver": "Sprung",
+              "Gold": "Sprung"
+            },
+            "40-44": {
+              "Bronze": "Sprung",
+              "Silver": "Sprung",
+              "Gold": "Sprung"
+            },
+            "45-49": {
+              "Bronze": "Sprung",
+              "Silver": "Sprung",
+              "Gold": "Sprung"
+            },
+            "50-54": {
+              "Bronze": "Sprung",
+              "Silver": "Sprung",
+              "Gold": "Sprung"
+            },
+            "55-59": {
+              "Bronze": "Sprung",
+              "Silver": "Sprung",
+              "Gold": "Sprung"
+            },
+            "60-64": {
+              "Bronze": "Boden",
+              "Silver": "Boden",
+              "Gold": "Boden"
+            },
+            "65-69": {
+              "Bronze": "Boden",
+              "Silver": "Boden",
+              "Gold": "Boden"
+            },
+            "70-74": {
+              "Bronze": "Sprung",
+              "Silver": "Sprung",
+              "Gold": "Sprung"
+            },
+            "75-79": {
+              "Bronze": "Sprung",
+              "Silver": "Sprung",
+              "Gold": "Sprung"
+            },
+            "80-84": {
+              "Bronze": "Sprung",
+              "Silver": "Sprung",
+              "Gold": "Sprung"
+            },
+            "85-89": {
+              "Bronze": "Sprung",
+              "Silver": "Sprung",
+              "Gold": "Sprung"
+            }
+          }
+        }
+      }
+    }
+  },
+  "COORDINATION": {
+    "id": "COORDINATION",
+    "name": "Koordination",
+    "disciplines": {
+      "HIGH_JUMP": {
+        "id": "HIGH_JUMP",
+        "name": "Hochsprung",
+        "group": "COORDINATION",
+        "unit": "m",
+        "unit_original": "m",
+        "values": {
+          "w": {
+            "90": {
+              "Bronze": 0.55,
+              "Silver": 0.6,
+              "Gold": 0.65
+            },
+            "10-11": {
+              "Bronze": 0.8,
+              "Silver": 0.9,
+              "Gold": 1
+            },
+            "12-13": {
+              "Bronze": 0.9,
+              "Silver": 1,
+              "Gold": 1.1
+            },
+            "14-15": {
+              "Bronze": 0.95,
+              "Silver": 1.05,
+              "Gold": 1.15
+            },
+            "16-17": {
+              "Bronze": 1.05,
+              "Silver": 1.15,
+              "Gold": 1.25
+            },
+            "18-19": {
+              "Bronze": 1.1,
+              "Silver": 1.2,
+              "Gold": 1.3
+            },
+            "20-24": {
+              "Bronze": 1.1,
+              "Silver": 1.2,
+              "Gold": 1.3
+            },
+            "25-29": {
+              "Bronze": 1.05,
+              "Silver": 1.15,
+              "Gold": 1.25
+            },
+            "30-34": {
+              "Bronze": 1,
+              "Silver": 1.1,
+              "Gold": 1.2
+            },
+            "35-39": {
+              "Bronze": 0.95,
+              "Silver": 1.05,
+              "Gold": 1.15
+            },
+            "40-44": {
+              "Bronze": 0.9,
+              "Silver": 1,
+              "Gold": 1.1
+            },
+            "45-49": {
+              "Bronze": 0.9,
+              "Silver": 1,
+              "Gold": 1.1
+            },
+            "50-54": {
+              "Bronze": 0.85,
+              "Silver": 0.95,
+              "Gold": 1.05
+            },
+            "55-59": {
+              "Bronze": 0.8,
+              "Silver": 0.9,
+              "Gold": 1
+            },
+            "60-64": {
+              "Bronze": 0.75,
+              "Silver": 0.85,
+              "Gold": 0.95
+            },
+            "65-69": {
+              "Bronze": 0.75,
+              "Silver": 0.85,
+              "Gold": 0.95
+            },
+            "70-74": {
+              "Bronze": 0.7,
+              "Silver": 0.8,
+              "Gold": 0.9
+            },
+            "75-79": {
+              "Bronze": 0.65,
+              "Silver": 0.75,
+              "Gold": 0.85
+            },
+            "80-84": {
+              "Bronze": 0.65,
+              "Silver": 0.75,
+              "Gold": 0.85
+            },
+            "85-89": {
+              "Bronze": 0.6,
+              "Silver": 0.7,
+              "Gold": 0.8
+            }
+          },
+          "m": {
+            "90": {
+              "Bronze": 0.65,
+              "Silver": 0.75,
+              "Gold": 0.85
+            },
+            "10-11": {
+              "Bronze": 0.85,
+              "Silver": 0.95,
+              "Gold": 1.05
+            },
+            "12-13": {
+              "Bronze": 0.95,
+              "Silver": 1.05,
+              "Gold": 1.15
+            },
+            "14-15": {
+              "Bronze": 1.1,
+              "Silver": 1.2,
+              "Gold": 1.3
+            },
+            "16-17": {
+              "Bronze": 1.2,
+              "Silver": 1.3,
+              "Gold": 1.4
+            },
+            "18-19": {
+              "Bronze": 1.3,
+              "Silver": 1.4,
+              "Gold": 1.5
+            },
+            "20-24": {
+              "Bronze": 1.35,
+              "Silver": 1.45,
+              "Gold": 1.55
+            },
+            "25-29": {
+              "Bronze": 1.3,
+              "Silver": 1.4,
+              "Gold": 1.5
+            },
+            "30-34": {
+              "Bronze": 1.3,
+              "Silver": 1.4,
+              "Gold": 1.5
+            },
+            "35-39": {
+              "Bronze": 1.25,
+              "Silver": 1.35,
+              "Gold": 1.45
+            },
+            "40-44": {
+              "Bronze": 1.2,
+              "Silver": 1.3,
+              "Gold": 1.4
+            },
+            "45-49": {
+              "Bronze": 1.15,
+              "Silver": 1.25,
+              "Gold": 1.35
+            },
+            "50-54": {
+              "Bronze": 1.05,
+              "Silver": 1.15,
+              "Gold": 1.25
+            },
+            "55-59": {
+              "Bronze": 1,
+              "Silver": 1.1,
+              "Gold": 1.2
+            },
+            "60-64": {
+              "Bronze": 0.95,
+              "Silver": 1.05,
+              "Gold": 1.15
+            },
+            "65-69": {
+              "Bronze": 0.85,
+              "Silver": 1,
+              "Gold": 1.1
+            },
+            "70-74": {
+              "Bronze": 0.8,
+              "Silver": 0.95,
+              "Gold": 1.05
+            },
+            "75-79": {
+              "Bronze": 0.75,
+              "Silver": 0.9,
+              "Gold": 1
+            },
+            "80-84": {
+              "Bronze": 0.75,
+              "Silver": 0.85,
+              "Gold": 0.95
+            },
+            "85-89": {
+              "Bronze": 0.7,
+              "Silver": 0.8,
+              "Gold": 0.9
+            }
+          }
+        }
+      },
+      "ZONE_LONG_JUMP": {
+        "id": "ZONE_LONG_JUMP",
+        "name": "Zonenweitsprung",
+        "group": "COORDINATION",
+        "unit": "",
+        "unit_original": "Punkte",
+        "values": {
+          "w": {
+            "6-7": {
+              "Bronze": 18,
+              "Silver": 21,
+              "Gold": 24
+            },
+            "8-9": {
+              "Bronze": 24,
+              "Silver": 27,
+              "Gold": 30
+            }
+          },
+          "m": {
+            "6-7": {
+              "Bronze": 18,
+              "Silver": 21,
+              "Gold": 24
+            },
+            "8-9": {
+              "Bronze": 27,
+              "Silver": 30,
+              "Gold": 33
+            }
+          }
+        }
+      },
+      "LONG_JUMP": {
+        "id": "LONG_JUMP",
+        "name": "Weitsprung",
+        "group": "COORDINATION",
+        "unit": "m",
+        "unit_original": "m",
+        "values": {
+          "w": {
+            "90": {
+              "Bronze": 1.1,
+              "Silver": 1.5,
+              "Gold": 1.9
+            },
+            "10-11": {
+              "Bronze": 2.3,
+              "Silver": 2.6,
+              "Gold": 2.9
+            },
+            "12-13": {
+              "Bronze": 2.8,
+              "Silver": 3.1,
+              "Gold": 3.4
+            },
+            "14-15": {
+              "Bronze": 3.2,
+              "Silver": 3.5,
+              "Gold": 3.8
+            },
+            "16-17": {
+              "Bronze": 3.4,
+              "Silver": 3.7,
+              "Gold": 4
+            },
+            "18-19": {
+              "Bronze": 3.4,
+              "Silver": 3.7,
+              "Gold": 4
+            },
+            "20-24": {
+              "Bronze": 3.4,
+              "Silver": 3.7,
+              "Gold": 4
+            },
+            "25-29": {
+              "Bronze": 3.3,
+              "Silver": 3.6,
+              "Gold": 3.9
+            },
+            "30-34": {
+              "Bronze": 3.2,
+              "Silver": 3.5,
+              "Gold": 3.8
+            },
+            "35-39": {
+              "Bronze": 3.1,
+              "Silver": 3.4,
+              "Gold": 3.7
+            },
+            "40-44": {
+              "Bronze": 3,
+              "Silver": 3.3,
+              "Gold": 3.6
+            },
+            "45-49": {
+              "Bronze": 2.8,
+              "Silver": 3.2,
+              "Gold": 3.5
+            },
+            "50-54": {
+              "Bronze": 2.6,
+              "Silver": 3,
+              "Gold": 3.4
+            },
+            "55-59": {
+              "Bronze": 2.5,
+              "Silver": 2.9,
+              "Gold": 3.3
+            },
+            "60-64": {
+              "Bronze": 2.4,
+              "Silver": 2.8,
+              "Gold": 3.2
+            },
+            "65-69": {
+              "Bronze": 2.3,
+              "Silver": 2.7,
+              "Gold": 3.1
+            },
+            "70-74": {
+              "Bronze": 2.1,
+              "Silver": 2.5,
+              "Gold": 2.9
+            },
+            "75-79": {
+              "Bronze": 1.8,
+              "Silver": 2.2,
+              "Gold": 2.6
+            },
+            "80-84": {
+              "Bronze": 1.6,
+              "Silver": 2,
+              "Gold": 2.4
+            },
+            "85-89": {
+              "Bronze": 1.3,
+              "Silver": 1.7,
+              "Gold": 2.1
+            }
+          },
+          "m": {
+            "90": {
+              "Bronze": 1.6,
+              "Silver": 2.1,
+              "Gold": 2.6
+            },
+            "10-11": {
+              "Bronze": 2.6,
+              "Silver": 2.9,
+              "Gold": 3.2
+            },
+            "12-13": {
+              "Bronze": 3.2,
+              "Silver": 3.5,
+              "Gold": 3.8
+            },
+            "14-15": {
+              "Bronze": 3.8,
+              "Silver": 4.1,
+              "Gold": 4.4
+            },
+            "16-17": {
+              "Bronze": 4.3,
+              "Silver": 4.6,
+              "Gold": 4.9
+            },
+            "18-19": {
+              "Bronze": 4.5,
+              "Silver": 4.8,
+              "Gold": 5.1
+            },
+            "20-24": {
+              "Bronze": 4.4,
+              "Silver": 4.7,
+              "Gold": 5
+            },
+            "25-29": {
+              "Bronze": 4.3,
+              "Silver": 4.6,
+              "Gold": 4.9
+            },
+            "30-34": {
+              "Bronze": 4.2,
+              "Silver": 4.5,
+              "Gold": 4.8
+            },
+            "35-39": {
+              "Bronze": 4.1,
+              "Silver": 4.4,
+              "Gold": 4.7
+            },
+            "40-44": {
+              "Bronze": 3.9,
+              "Silver": 4.3,
+              "Gold": 4.6
+            },
+            "45-49": {
+              "Bronze": 3.7,
+              "Silver": 4.1,
+              "Gold": 4.5
+            },
+            "50-54": {
+              "Bronze": 3.6,
+              "Silver": 4,
+              "Gold": 4.4
+            },
+            "55-59": {
+              "Bronze": 3.4,
+              "Silver": 3.8,
+              "Gold": 4.2
+            },
+            "60-64": {
+              "Bronze": 3.2,
+              "Silver": 3.6,
+              "Gold": 4
+            },
+            "65-69": {
+              "Bronze": 2.9,
+              "Silver": 3.3,
+              "Gold": 3.7
+            },
+            "70-74": {
+              "Bronze": 2.7,
+              "Silver": 3.1,
+              "Gold": 3.5
+            },
+            "75-79": {
+              "Bronze": 2.4,
+              "Silver": 2.9,
+              "Gold": 3.3
+            },
+            "80-84": {
+              "Bronze": 2.1,
+              "Silver": 2.6,
+              "Gold": 3.1
+            },
+            "85-89": {
+              "Bronze": 1.9,
+              "Silver": 2.4,
+              "Gold": 2.9
+            }
+          }
+        }
+      },
+      "TWISTING_THROW": {
+        "id": "TWISTING_THROW",
+        "name": "Drehwurf",
+        "group": "COORDINATION",
+        "unit": "",
+        "unit_original": "Punkte",
+        "values": {
+          "w": {
+            "6-7": {
+              "Bronze": 12,
+              "Silver": 15,
+              "Gold": 21
+            },
+            "8-9": {
+              "Bronze": 18,
+              "Silver": 21,
+              "Gold": 27
+            },
+            "10-11": {
+              "Bronze": 27,
+              "Silver": 30,
+              "Gold": 36
+            }
+          },
+          "m": {
+            "6-7": {
+              "Bronze": 15,
+              "Silver": 18,
+              "Gold": 24
+            },
+            "8-9": {
+              "Bronze": 21,
+              "Silver": 27,
+              "Gold": 33
+            },
+            "10-11": {
+              "Bronze": 33,
+              "Silver": 39,
+              "Gold": 45
+            }
+          }
+        }
+      },
+      "SLINGSHOT_BALL": {
+        "id": "SLINGSHOT_BALL",
+        "name": "Schleuderball (1 kg)",
+        "group": "COORDINATION",
+        "unit": "m",
+        "unit_original": "m",
+        "values": {
+          "w": {
+            "90": {
+              "Bronze": 7.5,
+              "Silver": 11,
+              "Gold": 14
+            },
+            "12-13": {
+              "Bronze": 17,
+              "Silver": 19.5,
+              "Gold": 22
+            },
+            "14-15": {
+              "Bronze": 19.5,
+              "Silver": 22.5,
+              "Gold": 25.5
+            },
+            "16-17": {
+              "Bronze": 22,
+              "Silver": 25,
+              "Gold": 28
+            },
+            "18-19": {
+              "Bronze": 23.5,
+              "Silver": 26.5,
+              "Gold": 29
+            },
+            "20-24": {
+              "Bronze": 24,
+              "Silver": 27,
+              "Gold": 29.5
+            },
+            "25-29": {
+              "Bronze": 24,
+              "Silver": 27,
+              "Gold": 29.5
+            },
+            "30-34": {
+              "Bronze": 22,
+              "Silver": 25,
+              "Gold": 27.5
+            },
+            "35-39": {
+              "Bronze": 21,
+              "Silver": 24,
+              "Gold": 26.5
+            },
+            "40-44": {
+              "Bronze": 19.5,
+              "Silver": 22.5,
+              "Gold": 25
+            },
+            "45-49": {
+              "Bronze": 18.5,
+              "Silver": 21.5,
+              "Gold": 24
+            },
+            "50-54": {
+              "Bronze": 16.5,
+              "Silver": 20,
+              "Gold": 23
+            },
+            "55-59": {
+              "Bronze": 15.5,
+              "Silver": 19,
+              "Gold": 22
+            },
+            "60-64": {
+              "Bronze": 14.5,
+              "Silver": 18,
+              "Gold": 21
+            },
+            "65-69": {
+              "Bronze": 13.5,
+              "Silver": 17,
+              "Gold": 20
+            },
+            "70-74": {
+              "Bronze": 13,
+              "Silver": 16.5,
+              "Gold": 19.5
+            },
+            "75-79": {
+              "Bronze": 12,
+              "Silver": 15.5,
+              "Gold": 18.5
+            },
+            "80-84": {
+              "Bronze": 11,
+              "Silver": 14.5,
+              "Gold": 17.5
+            },
+            "85-89": {
+              "Bronze": 9.5,
+              "Silver": 13,
+              "Gold": 16
+            }
+          },
+          "m": {
+            "90": {
+              "Bronze": 10.5,
+              "Silver": 15,
+              "Gold": 19.5
+            },
+            "12-13": {
+              "Bronze": 19.5,
+              "Silver": 24,
+              "Gold": 27.5
+            },
+            "14-15": {
+              "Bronze": 23.5,
+              "Silver": 28,
+              "Gold": 32
+            },
+            "16-17": {
+              "Bronze": 27.5,
+              "Silver": 32,
+              "Gold": 36.5
+            },
+            "18-19": {
+              "Bronze": 31.5,
+              "Silver": 36,
+              "Gold": 40.5
+            },
+            "20-24": {
+              "Bronze": 33,
+              "Silver": 38,
+              "Gold": 42
+            },
+            "25-29": {
+              "Bronze": 32.5,
+              "Silver": 37.5,
+              "Gold": 41.5
+            },
+            "30-34": {
+              "Bronze": 30,
+              "Silver": 35,
+              "Gold": 40
+            },
+            "35-39": {
+              "Bronze": 28.5,
+              "Silver": 33.5,
+              "Gold": 38.5
+            },
+            "40-44": {
+              "Bronze": 28,
+              "Silver": 33,
+              "Gold": 38
+            },
+            "45-49": {
+              "Bronze": 27,
+              "Silver": 32,
+              "Gold": 37.5
+            },
+            "50-54": {
+              "Bronze": 25.5,
+              "Silver": 31,
+              "Gold": 36.5
+            },
+            "55-59": {
+              "Bronze": 23.5,
+              "Silver": 29,
+              "Gold": 35
+            },
+            "60-64": {
+              "Bronze": 22.5,
+              "Silver": 28,
+              "Gold": 34
+            },
+            "65-69": {
+              "Bronze": 20,
+              "Silver": 25.5,
+              "Gold": 30.5
+            },
+            "70-74": {
+              "Bronze": 18.5,
+              "Silver": 24,
+              "Gold": 29
+            },
+            "75-79": {
+              "Bronze": 16,
+              "Silver": 21,
+              "Gold": 26
+            },
+            "80-84": {
+              "Bronze": 14,
+              "Silver": 19,
+              "Gold": 24
+            },
+            "85-89": {
+              "Bronze": 12,
+              "Silver": 16.5,
+              "Gold": 21
+            }
+          }
+        }
+      },
+      "SKIP_ROPE_TECHNIC": {
+        "id": "SKIP_ROPE_TECHNIC",
+        "name": "Seilspringen (Technik)",
+        "group": "COORDINATION",
+        "unit": "",
+        "unit_original": "",
+        "values": {
+          "w": {
+            "90": {
+              "Bronze": "Grundsprung vorwärts mit oder ohne Zwischensprung ODER Galoppsprung",
+              "Silver": "Grundsprung vorwärts mit oder ohne Zwischensprung ODER Galoppsprung",
+              "Gold": "Grundsprung vorwärts mit oder ohne Zwischensprung ODER Galoppsprung"
+            },
+            "6-7": {
+              "Bronze": "Grundsprung vorwärts mit oder ohne Zwischensprung ODER Galoppsprung",
+              "Silver": "Grundsprung vorwärts mit oder ohne Zwischensprung ODER Galoppsprung",
+              "Gold": "Grundsprung vorwärts mit oder ohne Zwischensprung ODER Galoppsprung"
+            },
+            "8-9": {
+              "Bronze": "Grundsprung vorwärts mit oder ohne Zwischensprung ODER Galoppsprung",
+              "Silver": "Grundsprung vorwärts mit oder ohne Zwischensprung ODER Galoppsprung",
+              "Gold": "Grundsprung vorwärts mit oder ohne Zwischensprung ODER Galoppsprung"
+            },
+            "10-11": {
+              "Bronze": "Grundsprung vorwärts ohne Zwischensprung",
+              "Silver": "Grundsprung vorwärts ohne Zwischensprung",
+              "Gold": "Grundsprung vorwärts ohne Zwischensprung"
+            },
+            "12-13": {
+              "Bronze": "Grundsprung rückwärts ohne Zwischensprung",
+              "Silver": "Grundsprung rückwärts ohne Zwischensprung",
+              "Gold": "Grundsprung rückwärts ohne Zwischensprung"
+            },
+            "14-15": {
+              "Bronze": "Kreuzdurchschlag ohne Zwischensprung",
+              "Silver": "Kreuzdurchschlag ohne Zwischensprung",
+              "Gold": "Kreuzdurchschlag ohne Zwischensprung"
+            },
+            "16-17": {
+              "Bronze": "Kreuzdurchschlag ohne Zwischensprung",
+              "Silver": "Kreuzdurchschlag ohne Zwischensprung",
+              "Gold": "Kreuzdurchschlag ohne Zwischensprung"
+            },
+            "18-19": {
+              "Bronze": "Doppeldurchschlag mit oder ohne Zwischensprung",
+              "Silver": "Doppeldurchschlag mit oder ohne Zwischensprung",
+              "Gold": "Doppeldurchschlag mit oder ohne Zwischensprung"
+            },
+            "20-24": {
+              "Bronze": "Doppeldurchschlag mit oder ohne Zwischensprung",
+              "Silver": "Doppeldurchschlag mit oder ohne Zwischensprung",
+              "Gold": "Doppeldurchschlag mit oder ohne Zwischensprung"
+            },
+            "25-29": {
+              "Bronze": "Doppeldurchschlag mit oder ohne Zwischensprung",
+              "Silver": "Doppeldurchschlag mit oder ohne Zwischensprung",
+              "Gold": "Doppeldurchschlag mit oder ohne Zwischensprung"
+            },
+            "30-34": {
+              "Bronze": "Kreuzdurchschlag ohne Zwischensprung",
+              "Silver": "Kreuzdurchschlag ohne Zwischensprung",
+              "Gold": "Kreuzdurchschlag ohne Zwischensprung"
+            },
+            "35-39": {
+              "Bronze": "Kreuzdurchschlag ohne Zwischensprung",
+              "Silver": "Kreuzdurchschlag ohne Zwischensprung",
+              "Gold": "Kreuzdurchschlag ohne Zwischensprung"
+            },
+            "40-44": {
+              "Bronze": "Laufschritt = Jogging-Step ohne Zwischensprung",
+              "Silver": "Laufschritt = Jogging-Step ohne Zwischensprung",
+              "Gold": "Laufschritt = Jogging-Step ohne Zwischensprung"
+            },
+            "45-49": {
+              "Bronze": "Laufschritt = Jogging-Step ohne Zwischensprung",
+              "Silver": "Laufschritt = Jogging-Step ohne Zwischensprung",
+              "Gold": "Laufschritt = Jogging-Step ohne Zwischensprung"
+            },
+            "50-54": {
+              "Bronze": "Grundsprung rückwärts ohne Zwischensprung",
+              "Silver": "Grundsprung rückwärts ohne Zwischensprung",
+              "Gold": "Grundsprung rückwärts ohne Zwischensprung"
+            },
+            "55-59": {
+              "Bronze": "Grundsprung rückwärts ohne Zwischensprung",
+              "Silver": "Grundsprung rückwärts ohne Zwischensprung",
+              "Gold": "Grundsprung rückwärts ohne Zwischensprung"
+            },
+            "60-64": {
+              "Bronze": "Grundsprung vorwärts ohne Zwischensprung",
+              "Silver": "Grundsprung vorwärts ohne Zwischensprung",
+              "Gold": "Grundsprung vorwärts ohne Zwischensprung"
+            },
+            "65-69": {
+              "Bronze": "Grundsprung vorwärts ohne Zwischensprung",
+              "Silver": "Grundsprung vorwärts ohne Zwischensprung",
+              "Gold": "Grundsprung vorwärts ohne Zwischensprung"
+            },
+            "70-74": {
+              "Bronze": "Grundsprung vorwärts mit oder ohne Zwischensprung ODER Galoppsprung",
+              "Silver": "Grundsprung vorwärts mit oder ohne Zwischensprung ODER Galoppsprung",
+              "Gold": "Grundsprung vorwärts mit oder ohne Zwischensprung ODER Galoppsprung"
+            },
+            "75-79": {
+              "Bronze": "Grundsprung vorwärts mit oder ohne Zwischensprung ODER Galoppsprung",
+              "Silver": "Grundsprung vorwärts mit oder ohne Zwischensprung ODER Galoppsprung",
+              "Gold": "Grundsprung vorwärts mit oder ohne Zwischensprung ODER Galoppsprung"
+            },
+            "80-84": {
+              "Bronze": "Grundsprung vorwärts mit oder ohne Zwischensprung ODER Galoppsprung",
+              "Silver": "Grundsprung vorwärts mit oder ohne Zwischensprung ODER Galoppsprung",
+              "Gold": "Grundsprung vorwärts mit oder ohne Zwischensprung ODER Galoppsprung"
+            },
+            "85-89": {
+              "Bronze": "Grundsprung vorwärts mit oder ohne Zwischensprung ODER Galoppsprung",
+              "Silver": "Grundsprung vorwärts mit oder ohne Zwischensprung ODER Galoppsprung",
+              "Gold": "Grundsprung vorwärts mit oder ohne Zwischensprung ODER Galoppsprung"
+            }
+          },
+          "m": {
+            "90": {
+              "Bronze": "Grundsprung vorwärts mit oder ohne Zwischensprung ODER Galoppsprung",
+              "Silver": "Grundsprung vorwärts mit oder ohne Zwischensprung ODER Galoppsprung",
+              "Gold": "Grundsprung vorwärts mit oder ohne Zwischensprung ODER Galoppsprung"
+            },
+            "6-7": {
+              "Bronze": "Grundsprung vorwärts mit oder ohne Zwischensprung ODER Galoppsprung",
+              "Silver": "Grundsprung vorwärts mit oder ohne Zwischensprung ODER Galoppsprung",
+              "Gold": "Grundsprung vorwärts mit oder ohne Zwischensprung ODER Galoppsprung"
+            },
+            "8-9": {
+              "Bronze": "Grundsprung vorwärts mit oder ohne Zwischensprung ODER Galoppsprung",
+              "Silver": "Grundsprung vorwärts mit oder ohne Zwischensprung ODER Galoppsprung",
+              "Gold": "Grundsprung vorwärts mit oder ohne Zwischensprung ODER Galoppsprung"
+            },
+            "10-11": {
+              "Bronze": "Grundsprung vorwärts ohne Zwischensprung",
+              "Silver": "Grundsprung vorwärts ohne Zwischensprung",
+              "Gold": "Grundsprung vorwärts ohne Zwischensprung"
+            },
+            "12-13": {
+              "Bronze": "Grundsprung rückwärts ohne Zwischensprung",
+              "Silver": "Grundsprung rückwärts ohne Zwischensprung",
+              "Gold": "Grundsprung rückwärts ohne Zwischensprung"
+            },
+            "14-15": {
+              "Bronze": "Kreuzdurchschlag ohne Zwischensprung",
+              "Silver": "Kreuzdurchschlag ohne Zwischensprung",
+              "Gold": "Kreuzdurchschlag ohne Zwischensprung"
+            },
+            "16-17": {
+              "Bronze": "Kreuzdurchschlag ohne Zwischensprung",
+              "Silver": "Kreuzdurchschlag ohne Zwischensprung",
+              "Gold": "Kreuzdurchschlag ohne Zwischensprung"
+            },
+            "18-19": {
+              "Bronze": "Doppeldurchschlag mit oder ohne Zwischensprung",
+              "Silver": "Doppeldurchschlag mit oder ohne Zwischensprung",
+              "Gold": "Doppeldurchschlag mit oder ohne Zwischensprung"
+            },
+            "20-24": {
+              "Bronze": "Doppeldurchschlag mit oder ohne Zwischensprung",
+              "Silver": "Doppeldurchschlag mit oder ohne Zwischensprung",
+              "Gold": "Doppeldurchschlag mit oder ohne Zwischensprung"
+            },
+            "25-29": {
+              "Bronze": "Doppeldurchschlag mit oder ohne Zwischensprung",
+              "Silver": "Doppeldurchschlag mit oder ohne Zwischensprung",
+              "Gold": "Doppeldurchschlag mit oder ohne Zwischensprung"
+            },
+            "30-34": {
+              "Bronze": "Kreuzdurchschlag ohne Zwischensprung",
+              "Silver": "Kreuzdurchschlag ohne Zwischensprung",
+              "Gold": "Kreuzdurchschlag ohne Zwischensprung"
+            },
+            "35-39": {
+              "Bronze": "Kreuzdurchschlag ohne Zwischensprung",
+              "Silver": "Kreuzdurchschlag ohne Zwischensprung",
+              "Gold": "Kreuzdurchschlag ohne Zwischensprung"
+            },
+            "40-44": {
+              "Bronze": "Laufschritt = Jogging-Step ohne Zwischensprung",
+              "Silver": "Laufschritt = Jogging-Step ohne Zwischensprung",
+              "Gold": "Laufschritt = Jogging-Step ohne Zwischensprung"
+            },
+            "45-49": {
+              "Bronze": "Laufschritt = Jogging-Step ohne Zwischensprung",
+              "Silver": "Laufschritt = Jogging-Step ohne Zwischensprung",
+              "Gold": "Laufschritt = Jogging-Step ohne Zwischensprung"
+            },
+            "50-54": {
+              "Bronze": "Grundsprung rückwärts ohne Zwischensprung",
+              "Silver": "Grundsprung rückwärts ohne Zwischensprung",
+              "Gold": "Grundsprung rückwärts ohne Zwischensprung"
+            },
+            "55-59": {
+              "Bronze": "Grundsprung rückwärts ohne Zwischensprung",
+              "Silver": "Grundsprung rückwärts ohne Zwischensprung",
+              "Gold": "Grundsprung rückwärts ohne Zwischensprung"
+            },
+            "60-64": {
+              "Bronze": "Grundsprung vorwärts ohne Zwischensprung",
+              "Silver": "Grundsprung vorwärts ohne Zwischensprung",
+              "Gold": "Grundsprung vorwärts ohne Zwischensprung"
+            },
+            "65-69": {
+              "Bronze": "Grundsprung vorwärts ohne Zwischensprung",
+              "Silver": "Grundsprung vorwärts ohne Zwischensprung",
+              "Gold": "Grundsprung vorwärts ohne Zwischensprung"
+            },
+            "70-74": {
+              "Bronze": "Grundsprung vorwärts mit oder ohne Zwischensprung ODER Galoppsprung",
+              "Silver": "Grundsprung vorwärts mit oder ohne Zwischensprung ODER Galoppsprung",
+              "Gold": "Grundsprung vorwärts mit oder ohne Zwischensprung ODER Galoppsprung"
+            },
+            "75-79": {
+              "Bronze": "Grundsprung vorwärts mit oder ohne Zwischensprung ODER Galoppsprung",
+              "Silver": "Grundsprung vorwärts mit oder ohne Zwischensprung ODER Galoppsprung",
+              "Gold": "Grundsprung vorwärts mit oder ohne Zwischensprung ODER Galoppsprung"
+            },
+            "80-84": {
+              "Bronze": "Grundsprung vorwärts mit oder ohne Zwischensprung ODER Galoppsprung",
+              "Silver": "Grundsprung vorwärts mit oder ohne Zwischensprung ODER Galoppsprung",
+              "Gold": "Grundsprung vorwärts mit oder ohne Zwischensprung ODER Galoppsprung"
+            },
+            "85-89": {
+              "Bronze": "Grundsprung vorwärts mit oder ohne Zwischensprung ODER Galoppsprung",
+              "Silver": "Grundsprung vorwärts mit oder ohne Zwischensprung ODER Galoppsprung",
+              "Gold": "Grundsprung vorwärts mit oder ohne Zwischensprung ODER Galoppsprung"
+            }
+          }
+        }
+      },
+      "SKIP_ROPE_AMOUNT": {
+        "id": "SKIP_ROPE_AMOUNT",
+        "name": "Seilspringen",
+        "group": "COORDINATION",
+        "unit": "",
+        "unit_original": "",
+        "values": {
+          "w": {
+            "90": {
+              "Bronze": 4,
+              "Silver": 6,
+              "Gold": 8
+            },
+            "6-7": {
+              "Bronze": 10,
+              "Silver": 15,
+              "Gold": 25
+            },
+            "8-9": {
+              "Bronze": 10,
+              "Silver": 15,
+              "Gold": 25
+            },
+            "10-11": {
+              "Bronze": 20,
+              "Silver": 30,
+              "Gold": 40
+            },
+            "12-13": {
+              "Bronze": 10,
+              "Silver": 20,
+              "Gold": 30
+            },
+            "14-15": {
+              "Bronze": 10,
+              "Silver": 15,
+              "Gold": 20
+            },
+            "16-17": {
+              "Bronze": 10,
+              "Silver": 15,
+              "Gold": 20
+            },
+            "18-19": {
+              "Bronze": 5,
+              "Silver": 10,
+              "Gold": 15
+            },
+            "20-24": {
+              "Bronze": 5,
+              "Silver": 10,
+              "Gold": 15
+            },
+            "25-29": {
+              "Bronze": 5,
+              "Silver": 10,
+              "Gold": 15
+            },
+            "30-34": {
+              "Bronze": 10,
+              "Silver": 15,
+              "Gold": 20
+            },
+            "35-39": {
+              "Bronze": 10,
+              "Silver": 15,
+              "Gold": 20
+            },
+            "40-44": {
+              "Bronze": 40,
+              "Silver": 60,
+              "Gold": 80
+            },
+            "45-49": {
+              "Bronze": 40,
+              "Silver": 60,
+              "Gold": 80
+            },
+            "50-54": {
+              "Bronze": 10,
+              "Silver": 20,
+              "Gold": 30
+            },
+            "55-59": {
+              "Bronze": 10,
+              "Silver": 20,
+              "Gold": 30
+            },
+            "60-64": {
+              "Bronze": 10,
+              "Silver": 20,
+              "Gold": 30
+            },
+            "65-69": {
+              "Bronze": 10,
+              "Silver": 20,
+              "Gold": 30
+            },
+            "70-74": {
+              "Bronze": 8,
+              "Silver": 14,
+              "Gold": 18
+            },
+            "75-79": {
+              "Bronze": 8,
+              "Silver": 14,
+              "Gold": 18
+            },
+            "80-84": {
+              "Bronze": 6,
+              "Silver": 10,
+              "Gold": 12
+            },
+            "85-89": {
+              "Bronze": 6,
+              "Silver": 10,
+              "Gold": 12
+            }
+          },
+          "m": {
+            "90": {
+              "Bronze": 4,
+              "Silver": 6,
+              "Gold": 8
+            },
+            "6-7": {
+              "Bronze": 10,
+              "Silver": 15,
+              "Gold": 25
+            },
+            "8-9": {
+              "Bronze": 10,
+              "Silver": 15,
+              "Gold": 25
+            },
+            "10-11": {
+              "Bronze": 20,
+              "Silver": 30,
+              "Gold": 40
+            },
+            "12-13": {
+              "Bronze": 10,
+              "Silver": 20,
+              "Gold": 30
+            },
+            "14-15": {
+              "Bronze": 10,
+              "Silver": 15,
+              "Gold": 20
+            },
+            "16-17": {
+              "Bronze": 10,
+              "Silver": 15,
+              "Gold": 20
+            },
+            "18-19": {
+              "Bronze": 5,
+              "Silver": 10,
+              "Gold": 15
+            },
+            "20-24": {
+              "Bronze": 5,
+              "Silver": 10,
+              "Gold": 15
+            },
+            "25-29": {
+              "Bronze": 5,
+              "Silver": 10,
+              "Gold": 15
+            },
+            "30-34": {
+              "Bronze": 10,
+              "Silver": 15,
+              "Gold": 20
+            },
+            "35-39": {
+              "Bronze": 10,
+              "Silver": 15,
+              "Gold": 20
+            },
+            "40-44": {
+              "Bronze": 40,
+              "Silver": 60,
+              "Gold": 80
+            },
+            "45-49": {
+              "Bronze": 40,
+              "Silver": 60,
+              "Gold": 80
+            },
+            "50-54": {
+              "Bronze": 10,
+              "Silver": 20,
+              "Gold": 30
+            },
+            "55-59": {
+              "Bronze": 10,
+              "Silver": 20,
+              "Gold": 30
+            },
+            "60-64": {
+              "Bronze": 10,
+              "Silver": 20,
+              "Gold": 30
+            },
+            "65-69": {
+              "Bronze": 10,
+              "Silver": 20,
+              "Gold": 30
+            },
+            "70-74": {
+              "Bronze": 8,
+              "Silver": 14,
+              "Gold": 18
+            },
+            "75-79": {
+              "Bronze": 8,
+              "Silver": 14,
+              "Gold": 18
+            },
+            "80-84": {
+              "Bronze": 6,
+              "Silver": 10,
+              "Gold": 12
+            },
+            "85-89": {
+              "Bronze": 6,
+              "Silver": 10,
+              "Gold": 12
+            }
+          }
+        }
+      },
+      "ARTISTIC_GYMNASTICS_COORDINATION": {
+        "id": "ARTISTIC_GYMNASTICS_COORDINATION",
+        "name": "Gerätturnen",
+        "group": "COORDINATION",
+        "unit": "",
+        "unit_original": "",
+        "values": {
+          "w": {
+            "90": {
+              "Bronze": "Schwebebalken",
+              "Silver": "Schwebebalken",
+              "Gold": "Schwebebalken"
+            },
+            "6-7": {
+              "Bronze": "Schwebebalken",
+              "Silver": "Schwebebalken",
+              "Gold": "Schwebebalken"
+            },
+            "8-9": {
+              "Bronze": "Reck",
+              "Silver": "Reck",
+              "Gold": "Reck"
+            },
+            "10-11": {
+              "Bronze": "Ringe",
+              "Silver": "Ringe",
+              "Gold": "Ringe"
+            },
+            "12-13": {
+              "Bronze": "Boden",
+              "Silver": "Boden",
+              "Gold": "Boden"
+            },
+            "14-15": {
+              "Bronze": "Boden",
+              "Silver": "Boden",
+              "Gold": "Boden"
+            },
+            "16-17": {
+              "Bronze": "Boden",
+              "Silver": "Boden",
+              "Gold": "Boden"
+            },
+            "18-19": {
+              "Bronze": "Boden",
+              "Silver": "Boden",
+              "Gold": "Boden"
+            },
+            "20-24": {
+              "Bronze": "Boden",
+              "Silver": "Boden",
+              "Gold": "Boden"
+            },
+            "25-29": {
+              "Bronze": "Boden",
+              "Silver": "Boden",
+              "Gold": "Boden"
+            },
+            "30-34": {
+              "Bronze": "Boden",
+              "Silver": "Boden",
+              "Gold": "Boden"
+            },
+            "35-39": {
+              "Bronze": "Boden",
+              "Silver": "Boden",
+              "Gold": "Boden"
+            },
+            "40-44": {
+              "Bronze": "Boden",
+              "Silver": "Boden",
+              "Gold": "Boden"
+            },
+            "45-49": {
+              "Bronze": "Boden",
+              "Silver": "Boden",
+              "Gold": "Boden"
+            },
+            "50-54": {
+              "Bronze": "Ringe",
+              "Silver": "Ringe",
+              "Gold": "Ringe"
+            },
+            "55-59": {
+              "Bronze": "Ringe",
+              "Silver": "Ringe",
+              "Gold": "Ringe"
+            },
+            "60-64": {
+              "Bronze": "Reck",
+              "Silver": "Reck",
+              "Gold": "Reck"
+            },
+            "65-69": {
+              "Bronze": "Reck",
+              "Silver": "Reck",
+              "Gold": "Reck"
+            },
+            "70-74": {
+              "Bronze": "Schwebebalken",
+              "Silver": "Schwebebalken",
+              "Gold": "Schwebebalken"
+            },
+            "75-79": {
+              "Bronze": "Schwebebalken",
+              "Silver": "Schwebebalken",
+              "Gold": "Schwebebalken"
+            },
+            "80-84": {
+              "Bronze": "Schwebebalken",
+              "Silver": "Schwebebalken",
+              "Gold": "Schwebebalken"
+            },
+            "85-89": {
+              "Bronze": "Schwebebalken",
+              "Silver": "Schwebebalken",
+              "Gold": "Schwebebalken"
+            }
+          },
+          "m": {
+            "90": {
+              "Bronze": "Schwebebalken",
+              "Silver": "Schwebebalken",
+              "Gold": "Schwebebalken"
+            },
+            "6-7": {
+              "Bronze": "Schwebebalken",
+              "Silver": "Schwebebalken",
+              "Gold": "Schwebebalken"
+            },
+            "8-9": {
+              "Bronze": "Reck",
+              "Silver": "Reck",
+              "Gold": "Reck"
+            },
+            "10-11": {
+              "Bronze": "Ringe",
+              "Silver": "Ringe",
+              "Gold": "Ringe"
+            },
+            "12-13": {
+              "Bronze": "Boden",
+              "Silver": "Boden",
+              "Gold": "Boden"
+            },
+            "14-15": {
+              "Bronze": "Boden",
+              "Silver": "Boden",
+              "Gold": "Boden"
+            },
+            "16-17": {
+              "Bronze": "Boden",
+              "Silver": "Boden",
+              "Gold": "Boden"
+            },
+            "18-19": {
+              "Bronze": "Boden",
+              "Silver": "Boden",
+              "Gold": "Boden"
+            },
+            "20-24": {
+              "Bronze": "Boden",
+              "Silver": "Boden",
+              "Gold": "Boden"
+            },
+            "25-29": {
+              "Bronze": "Boden",
+              "Silver": "Boden",
+              "Gold": "Boden"
+            },
+            "30-34": {
+              "Bronze": "Boden",
+              "Silver": "Boden",
+              "Gold": "Boden"
+            },
+            "35-39": {
+              "Bronze": "Boden",
+              "Silver": "Boden",
+              "Gold": "Boden"
+            },
+            "40-44": {
+              "Bronze": "Boden",
+              "Silver": "Boden",
+              "Gold": "Boden"
+            },
+            "45-49": {
+              "Bronze": "Boden",
+              "Silver": "Boden",
+              "Gold": "Boden"
+            },
+            "50-54": {
+              "Bronze": "Ringe",
+              "Silver": "Ringe",
+              "Gold": "Ringe"
+            },
+            "55-59": {
+              "Bronze": "Ringe",
+              "Silver": "Ringe",
+              "Gold": "Ringe"
+            },
+            "60-64": {
+              "Bronze": "Reck",
+              "Silver": "Reck",
+              "Gold": "Reck"
+            },
+            "65-69": {
+              "Bronze": "Reck",
+              "Silver": "Reck",
+              "Gold": "Reck"
+            },
+            "70-74": {
+              "Bronze": "Schwebebalken",
+              "Silver": "Schwebebalken",
+              "Gold": "Schwebebalken"
+            },
+            "75-79": {
+              "Bronze": "Schwebebalken",
+              "Silver": "Schwebebalken",
+              "Gold": "Schwebebalken"
+            },
+            "80-84": {
+              "Bronze": "Schwebebalken",
+              "Silver": "Schwebebalken",
+              "Gold": "Schwebebalken"
+            },
+            "85-89": {
+              "Bronze": "Schwebebalken",
+              "Silver": "Schwebebalken",
+              "Gold": "Schwebebalken"
+            }
+          }
+        }
+      }
+    }
+  }
+}
