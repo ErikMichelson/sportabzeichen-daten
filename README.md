@@ -2,7 +2,7 @@
 
 Dieses Repository beinhaltet den Datensatz der Anforderungen für das deutsche Sportabzeichen in maschinenlesbarem Format.
 
-Die CSV-Dateien sind aus den [offiziellen Tabellen](https://deutsches-sportabzeichen.de/service/materialien#akkordeon-17883) entnommen.
+Die CSV-Dateien sind aus den [offiziellen Tabellen](https://deutsches-sportabzeichen.de/materialien#c2350) entnommen.
 Zur Extraktion sowie der Definition des Ausgabeformats wurden [tabula](https://github.com/tabulapdf/tabula), [OpenRefine](https://github.com/OpenRefine/) und [OpenAI GPT-4o mini](https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/) genutzt.
 
 ## Verwendung in Anwendungen
